@@ -1,0 +1,1584 @@
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getCurrUser
+Status: 200
+Size: 639 bytes
+Response Time: 236 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopDetails
+Status: 200
+Size: 16656 bytes
+Response Time: 697 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllNeededDataForCurrUser
+Status: 200
+Size: 45690 bytes
+Response Time: 1105 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetMenuListByRoleId
+Status: 200
+Size: 2332 bytes
+Response Time: 1814 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetUserDetailForFreshdesk
+Status: 200
+Size: 524 bytes
+Response Time: 2928 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getDeliverySurcharge
+Status: 200
+Size: 524 bytes
+Response Time: 1822 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getHolidaylist
+Status: 200
+Size: 524 bytes
+Response Time: 1823 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetMVCMenusByPageUrl
+Status: 200
+Size: 524 bytes
+Response Time: 1827 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+Status: 200
+Size: 21 bytes
+Response Time: 286 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllDrafts
+Status: 200
+Size: 525 bytes
+Response Time: 272 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HanaCalendar/CheckCalendarCredenitial?ShopData=%5B%7B%22shopid%22%3A%222061%22%2C%22Shop_Name%22%3A%22Automation%20Shop%22%7D%2C%7B%22shopid%22%3A%222069%22%2C%22Shop_Name%22%3A%22Canada%20Shop%20Automation%22%7D%2C%7B%22shopid%22%3A%222068%22%2C%22Shop_Name%22%3A%22Manual%20hanapos%20(Canada)%22%7D%2C%7B%22shopid%22%3A%222066%22%2C%22Shop_Name%22%3A%22sisterchicks%20flowers%20and%20gifts%22%7D%5D
+Status: 200
+Size: 524 bytes
+Response Time: 457 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 317 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgets/31000000205.json?randomId=0.8874861861969909
+Status: 200
+Size: 418 bytes
+Response Time: 348 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgetBase/locales/en.json
+Status: 200
+Size: 450 bytes
+Response Time: 32 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/config
+Status: 200
+Size: 230 bytes
+Response Time: 1283 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDashboardChartStatus?PageName=Hana
+Status: 200
+Size: 823 bytes
+Response Time: 535 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 743 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 813 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/notifications?page=1
+Status: 200
+Size: 189 bytes
+Response Time: 987 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 836 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 838 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrderByDeliveryDate
+Status: 200
+Size: 524 bytes
+Response Time: 939 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com//ws/auth?rnd=24349862297515257
+Status: 200
+Size: 192 bytes
+Response Time: 1097 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 1135 ms
+
+XHR/Fetch Response:
+URL: https://rest.ably.io/keys/rerP7g.r7-5KQ/requestToken?rnd=4745569908468201
+Status: 201
+Size: 513 bytes
+Response Time: 418 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrderItemSales
+Status: 200
+Size: 524 bytes
+Response Time: 903 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrderEmployeeSales
+Status: 200
+Size: 524 bytes
+Response Time: 1049 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrderDaySummary
+Status: 200
+Size: 524 bytes
+Response Time: 1065 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetPendingDeliveryDashboard
+Status: 200
+Size: 524 bytes
+Response Time: 1512 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDashBoardSalesByMopChart
+Status: 200
+Size: 518 bytes
+Response Time: 1786 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetHintsByPageUrl
+Status: 200
+Size: 524 bytes
+Response Time: 2494 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDashBoardPaymentByMOPChart
+Status: 200
+Size: 518 bytes
+Response Time: 2264 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersAndSalesDashboard
+Status: 200
+Size: 524 bytes
+Response Time: 2226 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getNewsslider
+Status: 200
+Size: 524 bytes
+Response Time: 3073 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetTotalDeliveriesDashboardData
+Status: 200
+Size: 524 bytes
+Response Time: 2546 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetGiftCardType
+Status: 200
+Size: 524 bytes
+Response Time: 2536 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetEGiftCardOccasions
+Status: 200
+Size: 524 bytes
+Response Time: 2539 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 3104 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+Status: 200
+Size: 21 bytes
+Response Time: 243 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllDrafts
+Status: 200
+Size: 525 bytes
+Response Time: 326 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 915 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 269 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgets/31000000205.json?randomId=0.10681234752218194
+Status: 200
+Size: 418 bytes
+Response Time: 60 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgetBase/locales/en.json
+Status: 200
+Size: 450 bytes
+Response Time: 2 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/config
+Status: 200
+Size: 189 bytes
+Response Time: 1825 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 683 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 772 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetEGiftCardOccasions
+Status: 200
+Size: 524 bytes
+Response Time: 669 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 921 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetGiftCardType
+Status: 200
+Size: 524 bytes
+Response Time: 786 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getNewsslider
+Status: 200
+Size: 524 bytes
+Response Time: 1503 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com//ws/auth?rnd=6061396453409894
+Status: 200
+Size: 212 bytes
+Response Time: 1548 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/notifications?page=1
+Status: 200
+Size: 205 bytes
+Response Time: 1403 ms
+
+XHR/Fetch Response:
+URL: https://rest.ably.io/keys/rerP7g.r7-5KQ/requestToken?rnd=5536395324583174
+Status: 201
+Size: 511 bytes
+Response Time: 469 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyBm27KafmEaZyecdadi-iD0eaBhWV1QDjk&address=32013%2CUSA
+Status: 200
+Size: 521 bytes
+Response Time: 583 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyBm27KafmEaZyecdadi-iD0eaBhWV1QDjk&address=32013%2CUSA
+Status: 200
+Size: 521 bytes
+Response Time: 9155 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllCashRegistry
+Status: 200
+Size: 2049 bytes
+Response Time: 2642 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllWireOutTypes
+Status: 200
+Size: 931 bytes
+Response Time: 272 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllRecurringFrequencies
+Status: 200
+Size: 1114 bytes
+Response Time: 760 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com//Order/SelectZone?city=Day&state=FL&add=%20&zip=32013&shop=2061
+Status: 200
+Size: 694 bytes
+Response Time: 1151 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyBm27KafmEaZyecdadi-iD0eaBhWV1QDjk&address=32013%2CUSA
+Status: 200
+Size: 521 bytes
+Response Time: 234 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyBm27KafmEaZyecdadi-iD0eaBhWV1QDjk&address=32013%2CUSA
+Status: 200
+Size: 521 bytes
+Response Time: 482 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 17352 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 17353 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 17353 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 17356 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/GetHDNstatusForShop?shopID=2061
+Status: 200
+Size: 524 bytes
+Response Time: 17371 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 17371 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 17379 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HanaSupport/GetSocialMediaIntegration?ShopId=2061
+Status: 200
+Size: 685 bytes
+Response Time: 304 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com//Order/SelectZone?city=Day&state=FL&add=%20&zip=32013&shop=2061
+Status: 200
+Size: 694 bytes
+Response Time: 356 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com//Order/SelectZone?city=Day&state=FL&add=%20&zip=32013&shop=2061
+Status: 200
+Size: 694 bytes
+Response Time: 329 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com//Order/SelectZone?city=Day&state=FL&add=%20&zip=32013&shop=2061
+Status: 200
+Size: 694 bytes
+Response Time: 356 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com//Order/SelectZone?city=Day&state=FL&add=%20&zip=32013&shop=2061
+Status: 200
+Size: 694 bytes
+Response Time: 344 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/getCustomerBasedOnSearchCriteria
+Status: 200
+Size: 1166 bytes
+Response Time: 274 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyBm27KafmEaZyecdadi-iD0eaBhWV1QDjk&address=92103%2CUSA
+Status: 200
+Size: 521 bytes
+Response Time: 425 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/getCustomerOrdersByCustomerId
+Status: 200
+Size: 531 bytes
+Response Time: 557 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopDetails
+Status: 200
+Size: 526 bytes
+Response Time: 3247 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/getCustomerPastdue
+Status: 200
+Size: 524 bytes
+Response Time: 3252 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/notifications?page=1
+Status: 200
+Size: 228 bytes
+Response Time: 1418 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/getRecipientBasedOnSearchCriteria
+Status: 200
+Size: 524 bytes
+Response Time: 367 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/getRecipientBasedOnSearchCriteria
+Status: 200
+Size: 524 bytes
+Response Time: 302 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/verifyAddressFromGoogleNew?country=US&city=Washington&state=MO&zipcode=63090&add=1160%20W%205th%20St
+Status: 200
+Size: 796 bytes
+Response Time: 442 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/calculateMilesNew?reciAdd1=1160%20W%205th%20St&reciAdd2=&reciCity=Washington&reciState=MO&reciZipcode=63090&fromAddress=114%20N%20CHURCH%20ST%20%20UNION%20MO%2063084
+Status: 200
+Size: 903 bytes
+Response Time: 570 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com//Order/SelectZone?city=Washington&state=MO&add=1160%20W%205th%20St%20&zip=63090&shop=2061
+Status: 200
+Size: 694 bytes
+Response Time: 2553 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 645 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/getItemDetails
+Status: 200
+Size: 1318 bytes
+Response Time: 250 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/IsProductAvailable
+Status: 200
+Size: 661 bytes
+Response Time: 739 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/getItemDetails
+Status: 200
+Size: 1203 bytes
+Response Time: 353 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopDetails
+Status: 200
+Size: 526 bytes
+Response Time: 243 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetPhoneOrderCustomerCountById
+Status: 200
+Size: 661 bytes
+Response Time: 766 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/CheckItemCodeForShop
+Status: 200
+Size: 637 bytes
+Response Time: 277 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/saveOrder
+Status: 200
+Size: 525 bytes
+Response Time: 343 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+Status: 200
+Size: 21 bytes
+Response Time: 82 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllDrafts
+Status: 200
+Size: 525 bytes
+Response Time: 454 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 936 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 290 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgets/31000000205.json?randomId=0.5942274859758337
+Status: 200
+Size: 419 bytes
+Response Time: 133 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgetBase/locales/en.json
+Status: 200
+Size: 453 bytes
+Response Time: 21 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllCommonAddresses
+Status: 200
+Size: 989 bytes
+Response Time: 269 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllCashRegistry
+Status: 200
+Size: 2049 bytes
+Response Time: 271 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 815 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/config
+Status: 200
+Size: 230 bytes
+Response Time: 1375 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 864 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getNewsslider
+Status: 200
+Size: 524 bytes
+Response Time: 865 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/CheckPaymentStatusForMultipleInvoice?Invoices=2061006796
+Status: 200
+Size: 524 bytes
+Response Time: 302 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetGiftCardType
+Status: 200
+Size: 524 bytes
+Response Time: 262 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HanaSupport/GetSocialMediaIntegration?ShopId=2061
+Status: 200
+Size: 685 bytes
+Response Time: 408 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/GetHDNstatusForShop?shopID=2061
+Status: 200
+Size: 524 bytes
+Response Time: 690 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 1509 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetEGiftCardOccasions
+Status: 200
+Size: 524 bytes
+Response Time: 884 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/notifications?page=1
+Status: 200
+Size: 189 bytes
+Response Time: 1089 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com//ws/auth?rnd=36765296206702136
+Status: 200
+Size: 191 bytes
+Response Time: 1081 ms
+
+XHR/Fetch Response:
+URL: https://rest.ably.io/keys/rerP7g.r7-5KQ/requestToken?rnd=283134780481337
+Status: 201
+Size: 513 bytes
+Response Time: 267 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+Status: 200
+Size: 21 bytes
+Response Time: 44 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 299 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllDrafts
+Status: 200
+Size: 525 bytes
+Response Time: 962 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 243 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgets/31000000205.json?randomId=0.448343732335583
+Status: 200
+Size: 412 bytes
+Response Time: 83 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgetBase/locales/en.json
+Status: 200
+Size: 451 bytes
+Response Time: 26 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDashboardChartStatus?PageName=Order
+Status: 200
+Size: 15937 bytes
+Response Time: 339 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDashboardSortBy?PageName=Order
+Status: 200
+Size: 699 bytes
+Response Time: 287 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadOrderStatus
+Status: 200
+Size: 850 bytes
+Response Time: 245 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadDeliveryType
+Status: 200
+Size: 720 bytes
+Response Time: 253 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadOrderType
+Status: 200
+Size: 904 bytes
+Response Time: 254 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadPaymentType
+Status: 200
+Size: 994 bytes
+Response Time: 330 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDesigners
+Status: 200
+Size: 856 bytes
+Response Time: 235 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDriverDetails
+Status: 200
+Size: 830 bytes
+Response Time: 333 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/config
+Status: 200
+Size: 214 bytes
+Response Time: 3840 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 2698 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HanaSupport/GetSocialMediaIntegration?ShopId=2061
+Status: 200
+Size: 685 bytes
+Response Time: 238 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/Get_Shop_Statement_Enable?shopId=2061
+Status: 200
+Size: 524 bytes
+Response Time: 618 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 3047 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 3050 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getNewsslider
+Status: 200
+Size: 524 bytes
+Response Time: 3052 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadPartial
+Status: 200
+Size: 518 bytes
+Response Time: 2380 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetFilters
+Status: 200
+Size: 2615 bytes
+Response Time: 301 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 241 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 283 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 245 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 381 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetGiftCardType
+Status: 200
+Size: 524 bytes
+Response Time: 2087 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/GetHDNstatusForShop?shopID=2061
+Status: 200
+Size: 524 bytes
+Response Time: 1909 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetEGiftCardOccasions
+Status: 200
+Size: 524 bytes
+Response Time: 2126 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/notifications?page=1
+Status: 200
+Size: 204 bytes
+Response Time: 963 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com//ws/auth?rnd=32299846980116353
+Status: 200
+Size: 187 bytes
+Response Time: 870 ms
+
+XHR/Fetch Response:
+URL: https://rest.ably.io/keys/rerP7g.r7-5KQ/requestToken?rnd=0776687838351049
+Status: 201
+Size: 512 bytes
+Response Time: 138 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetOrdersNew_V3?ShopID=2061&PendingInvoice=false&CODInvoice=false&Page=1&PageSize=150&SortOn=ORDER_ENTRY_DATETIME&SortType=desc&Filters=[{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsGreaterThanOrEqualTo%22,%22value%22:%2205/13/2025%22},{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsLessThanOrEqualTo%22,%22value%22:%2206/12/2025%22}]
+Status: 200
+Size: 531 bytes
+Response Time: 5520 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/InsertUpdateDashboardChartStatus
+Status: 200
+Size: 428 bytes
+Response Time: 4413 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 10065 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 10069 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 4746 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 4783 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 4794 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetSearchData
+Status: 200
+Size: 744 bytes
+Response Time: 253 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetOrdersNew_V3?ShopID=2061&PendingInvoice=false&CODInvoice=false&Page=1&PageSize=150&SortOn=ORDER_ENTRY_DATETIME&SortType=desc&Filters=[{%22field%22:%22INVOICE%22,%22operator%22:%22Contains%22,%22value%22:%222061006796%22}]
+Status: 200
+Size: 525 bytes
+Response Time: 515 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/InsertUpdateDashboardChartStatus
+Status: 200
+Size: 428 bytes
+Response Time: 5272 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 5572 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 6127 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+Status: 200
+Size: 21 bytes
+Response Time: 70 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllDrafts
+Status: 200
+Size: 525 bytes
+Response Time: 375 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 296 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgets/31000000205.json?randomId=0.979543341700021
+Status: 200
+Size: 419 bytes
+Response Time: 78 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgetBase/locales/en.json
+Status: 200
+Size: 453 bytes
+Response Time: 25 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/config
+Status: 200
+Size: 229 bytes
+Response Time: 750 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetDispatchDrivers?ShopId=2061
+Status: 200
+Size: 867 bytes
+Response Time: 236 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetSavedTrips?DelDate=6/12/2025&Shopid=2061
+Status: 200
+Size: 921 bytes
+Response Time: 357 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 873 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 933 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HanaSupport/GetSocialMediaIntegration?ShopId=2061
+Status: 200
+Size: 685 bytes
+Response Time: 1505 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetAdvanceUnDispatchOrders?ShowAllshop=N&DelDate=6%2F12%2F2025&ShopId=2061
+Status: 200
+Size: 525 bytes
+Response Time: 2019 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetDispatchUndispatchUnVerifyOrders?DlvDate=6%2F12%2F2025&ShopId=2061
+Status: 200
+Size: 853 bytes
+Response Time: 284 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetRoutificToken?ShowAllshop=N&ShopId=2061
+Status: 200
+Size: 524 bytes
+Response Time: 2340 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetGiftCardType
+Status: 200
+Size: 524 bytes
+Response Time: 2319 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 2982 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetEGiftCardOccasions
+Status: 200
+Size: 524 bytes
+Response Time: 2335 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/notifications?page=1
+Status: 200
+Size: 214 bytes
+Response Time: 2122 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com//ws/auth?rnd=2192581207189731
+Status: 200
+Size: 192 bytes
+Response Time: 2053 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/GetHDNstatusForShop?shopID=2061
+Status: 200
+Size: 524 bytes
+Response Time: 2143 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getNewsslider
+Status: 200
+Size: 524 bytes
+Response Time: 3013 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetUnDispatchOrdersSummary?ShowAllshop=N&DelDate=6/12/2025&ShopId=2061
+Status: 200
+Size: 524 bytes
+Response Time: 2454 ms
+
+XHR/Fetch Response:
+URL: https://rest.ably.io/keys/rerP7g.r7-5KQ/requestToken?rnd=400787921400671
+Status: 201
+Size: 511 bytes
+Response Time: 275 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com//HDN/GetHDNLocationInfoAsync
+Status: 200
+Size: 428 bytes
+Response Time: 936 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/CheckHDNPaymentStatus
+Status: 200
+Size: 517 bytes
+Response Time: 1354 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+Status: 200
+Size: 23 bytes
+Response Time: 450 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetAdvanceUnDispatchOrders?ShowAllshop=N&DelDate=6%2F12%2F2025&ShopId=2061
+Status: 200
+Size: 525 bytes
+Response Time: 448 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+Status: 200
+Size: 23 bytes
+Response Time: 165 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/GetDriverIntialForHDN
+Status: 200
+Size: 640 bytes
+Response Time: 261 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/GetDriverIntialForHDN
+Status: 200
+Size: 640 bytes
+Response Time: 319 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/SaveBulkDispath
+Status: 200
+Size: 711 bytes
+Response Time: 313 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetSavedTrips?DelDate=6/12/2025&Shopid=2061
+Status: 200
+Size: 931 bytes
+Response Time: 340 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/AdvancedDispatch/GetSavedTripInvoices?RouteId=1520030&ShopId=2061
+Status: 200
+Size: 525 bytes
+Response Time: 280 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo
+Status: 200
+Size: 23 bytes
+Response Time: 257 ms
+
+XHR/Fetch Response:
+URL: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true
+Status: 200
+Size: 21 bytes
+Response Time: 54 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 430 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllDrafts
+Status: 200
+Size: 525 bytes
+Response Time: 903 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 382 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgets/31000000205.json?randomId=0.6074793039824063
+Status: 200
+Size: 418 bytes
+Response Time: 50 ms
+
+XHR/Fetch Response:
+URL: https://widget.freshworks.com/widgetBase/locales/en.json
+Status: 200
+Size: 452 bytes
+Response Time: 23 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/config
+Status: 200
+Size: 213 bytes
+Response Time: 1008 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadOrderStatus
+Status: 200
+Size: 850 bytes
+Response Time: 161 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadDeliveryType
+Status: 200
+Size: 720 bytes
+Response Time: 67 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadOrderType
+Status: 200
+Size: 904 bytes
+Response Time: 250 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadPaymentType
+Status: 200
+Size: 994 bytes
+Response Time: 323 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDesigners
+Status: 200
+Size: 856 bytes
+Response Time: 256 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetDriverDetails
+Status: 200
+Size: 830 bytes
+Response Time: 280 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 2326 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com/notifications?page=1
+Status: 200
+Size: 228 bytes
+Response Time: 2971 ms
+
+XHR/Fetch Response:
+URL: https://api.magicbell.com//ws/auth?rnd=8215768951791298
+Status: 200
+Size: 189 bytes
+Response Time: 2986 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HanaSupport/GetSocialMediaIntegration?ShopId=2061
+Status: 200
+Size: 685 bytes
+Response Time: 262 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/Get_Shop_Statement_Enable?shopId=2061
+Status: 200
+Size: 524 bytes
+Response Time: 1169 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 2821 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getNewsslider
+Status: 200
+Size: 524 bytes
+Response Time: 2831 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 2825 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/LoadPartial
+Status: 200
+Size: 518 bytes
+Response Time: 2772 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetFilters
+Status: 200
+Size: 2615 bytes
+Response Time: 389 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 246 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 344 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 249 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 493 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetGiftCardType
+Status: 200
+Size: 524 bytes
+Response Time: 3113 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/HDN/GetHDNstatusForShop?shopID=2061
+Status: 200
+Size: 524 bytes
+Response Time: 3028 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetEGiftCardOccasions
+Status: 200
+Size: 524 bytes
+Response Time: 3612 ms
+
+XHR/Fetch Response:
+URL: https://rest.ably.io/keys/rerP7g.r7-5KQ/requestToken?rnd=5866024054778637
+Status: 201
+Size: 513 bytes
+Response Time: 3049 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetOrdersNew_V3?ShopID=2061&PendingInvoice=false&CODInvoice=false&Page=1&PageSize=150&SortOn=ORDER_ENTRY_DATETIME&SortType=desc&Filters=[{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsGreaterThanOrEqualTo%22,%22value%22:%2205/13/2025%22},{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsLessThanOrEqualTo%22,%22value%22:%2206/12/2025%22}]
+Status: 200
+Size: 531 bytes
+Response Time: 1053 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/InsertUpdateDashboardChartStatus
+Status: 200
+Size: 428 bytes
+Response Time: 5367 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetCountDrafts
+Status: 200
+Size: 524 bytes
+Response Time: 11483 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/MailBox/GetUnreadMessage
+Status: 200
+Size: 517 bytes
+Response Time: 11466 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 5794 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 5800 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 5804 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetSearchData
+Status: 200
+Size: 744 bytes
+Response Time: 497 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetOrdersNew_V3?ShopID=2061&PendingInvoice=false&CODInvoice=false&Page=1&PageSize=150&SortOn=ORDER_ENTRY_DATETIME&SortType=desc&Filters=[{%22field%22:%22INVOICE%22,%22operator%22:%22Contains%22,%22value%22:%222061006796%22}]
+Status: 200
+Size: 525 bytes
+Response Time: 2384 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/InsertUpdateDashboardChartStatus
+Status: 200
+Size: 428 bytes
+Response Time: 5125 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 5243 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 5370 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/getShopList
+Status: 200
+Size: 771 bytes
+Response Time: 1060 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Delivery/getDriverList?shopId=2061
+Status: 200
+Size: 786 bytes
+Response Time: 287 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Delivery/getDeliveryCodeList
+Status: 200
+Size: 892 bytes
+Response Time: 422 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Delivery/GetDataNew?ShopId=2061&startDeliveryDate=6/12/2025&endDeliveryDate=6/12/2025&DriverId=All&SortBy=Dispatch%20Time&SortOrd=DESC&Status=2&Filter=&Contains=
+Status: 200
+Size: 524 bytes
+Response Time: 207 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Delivery/SaveDeliveryInvoice
+Status: 200
+Size: 524 bytes
+Response Time: 437 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Delivery/GetDataNew?ShopId=2061&startDeliveryDate=6/12/2025&endDeliveryDate=6/12/2025&DriverId=All&SortBy=Dispatch%20Time&SortOrd=DESC&Status=2&Filter=&Contains=
+Status: 200
+Size: 524 bytes
+Response Time: 513 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 363 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 278 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 247 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 583 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetOrdersNew_V3?ShopID=2061&PendingInvoice=false&CODInvoice=false&Page=1&PageSize=150&SortOn=ORDER_ENTRY_DATETIME&SortType=desc&Filters=[{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsGreaterThanOrEqualTo%22,%22value%22:%2205/13/2025%22},{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsLessThanOrEqualTo%22,%22value%22:%2206/12/2025%22}]
+Status: 200
+Size: 531 bytes
+Response Time: 604 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 426 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 279 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetServerTime
+Status: 200
+Size: 656 bytes
+Response Time: 266 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetTimeZoneBaseOnShopId
+Status: 200
+Size: 783 bytes
+Response Time: 373 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/InsertUpdateDashboardChartStatus
+Status: 200
+Size: 428 bytes
+Response Time: 5515 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status: 200
+Size: 480 bytes
+Response Time: 7836 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetOrdersNew_V3?ShopID=2061&PendingInvoice=false&CODInvoice=false&Page=1&PageSize=150&SortOn=ORDER_ENTRY_DATETIME&SortType=desc&Filters=[{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsGreaterThanOrEqualTo%22,%22value%22:%2205/13/2025%22},{%22field%22:%22ORDER_ENTRY_DATETIMENEW%22,%22operator%22:%22IsLessThanOrEqualTo%22,%22value%22:%2206/12/2025%22}]
+Status: 200
+Size: 531 bytes
+Response Time: 9400 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/InsertUpdateDashboardChartStatus
+Status: 200
+Size: 428 bytes
+Response Time: 5095 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 5369 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 5373 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 5427 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 5432 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/GetSearchData
+Status: 200
+Size: 744 bytes
+Response Time: 256 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Order/GetOrdersNew_V3?ShopID=2061&PendingInvoice=false&CODInvoice=false&Page=1&PageSize=150&SortOn=ORDER_ENTRY_DATETIME&SortType=desc&Filters=[{%22field%22:%22INVOICE%22,%22operator%22:%22Contains%22,%22value%22:%222061006796%22}]
+Status: 200
+Size: 525 bytes
+Response Time: 382 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/InsertUpdateDashboardChartStatus
+Status: 200
+Size: 428 bytes
+Response Time: 3587 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Dashboard/GetOrdersCountByStatus
+Status: 200
+Size: 524 bytes
+Response Time: 3688 ms
+
+XHR/Fetch Response:
+URL: https://hanafloralpos3.com/Common/getAllShopRequiredFields
+Status: 200
+Size: 525 bytes
+Response Time: 4115 ms
+
