@@ -1,0 +1,343 @@
+1753380650555 WARNING https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 10007:16 "No element found for .fixedsidebar .menuList"
+
+1753380651633 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1753380657792 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380660459 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380660630 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380662512 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380662555 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380664263 WARNING https://hanafloralpos3.com/Dashboard/Hana - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380664376 WARNING https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:42871 "jQuery.Deferred exception: Cannot read properties of undefined (reading 'length')" "TypeError: Cannot read properties of undefined (reading 'length')\n    at i.grep (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:15343)\n    at GetHintUrl (https://hanafloralpos3.com/Scripts/hanaNew?v=Qt60jenZLoob5qDa0YDhQr1vgFMlelO6p4Eu8KEU0hw1:14998:21)\n    at HTMLDocument.\u003Canonymous> (https://hanafloralpos3.com/Scripts/hanaNew?v=Qt60jenZLoob5qDa0YDhQr1vgFMlelO6p4Eu8KEU0hw1:15088:5)\n    at l (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:41283)\n    at c (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:41599)" undefined
+
+1753380666286 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380666876 SEVERE https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:15342 Uncaught TypeError: Cannot read properties of undefined (reading 'length')
+
+1753380667287 WARNING https://code.highcharts.com/stock/highstock.js 8:194 "Highcharts warning: Consider including the \"accessibility.js\" module to make your chart more usable for people with disabilities. Set the \"accessibility.enabled\" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module."
+
+1753380668575 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753380676856 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380679365 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380679530 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380681611 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380683257 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380683411 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380683593 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380687921 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380691562 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753380701175 SEVERE https://hanafloralpos3.com/Scripts/custom/ProposalCommon.js?v=0721095420 1624:16 Uncaught ReferenceError: setFocusOnNonSelectedCtrl is not defined
+
+1753380713658 SEVERE https://hanafloralpos3.com/Scripts/custom/ProposalCommon.js?v=0721095420 1624:16 Uncaught ReferenceError: setFocusOnNonSelectedCtrl is not defined
+
+1753380723587 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380724948 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380725249 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380726242 SEVERE https://hanafloralpos3.com/Scripts/Static/Constant.js?v=0721095420 0:0 Uncaught SyntaxError: Identifier 'forbiddenChars' has already been declared
+
+1753380726296 SEVERE https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 0:0 Uncaught SyntaxError: Identifier 'AUTHCAPTURE' has already been declared
+
+1753380726996 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380729708 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380729709 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380729710 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380729807 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380730305 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753380803864 WARNING https://hanafloralpos3.com/Scripts/app/moment.js 292:16 "Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged and will be removed in an upcoming major release. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.\nArguments: \n[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: 2025-08-13 07:30 PM, _f: undefined, _strict: undefined, _locale: [object Object]\nError\n    at hooks.createFromInputFallback (https://hanafloralpos3.com/Scripts/app/moment.js:320:94)\n    at configFromString (https://hanafloralpos3.com/Scripts/app/moment.js:2178:11)\n    at configFromInput (https://hanafloralpos3.com/Scripts/app/moment.js:2547:9)\n    at prepareConfig (https://hanafloralpos3.com/Scripts/app/moment.js:2530:9)\n    at createFromConfig (https://hanafloralpos3.com/Scripts/app/moment.js:2497:40)\n    at createLocalOrUTC (https://hanafloralpos3.com/Scripts/app/moment.js:2584:12)\n    at createLocal (https://hanafloralpos3.com/Scripts/app/moment.js:2588:12)\n    at hooks (https://hanafloralpos3.com/Scripts/app/moment.js:16:25)\n    at SubmitEvent (https://hanafloralpos3.com/Scripts/custom/HanaCalendar.js?v=0721095420:742:13)\n    at PrepareForAddFollowUpFromEdit (https://hanafloralpos3.com/Scripts/custom/ProposalCommon.js?v=0721095420:1952:9)"
+
+1753380804509 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380807812 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380807905 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380810603 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380812330 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380812404 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380812484 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380812535 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380812896 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753380818276 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380818355 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380829576 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380831443 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1753380831476 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1753380831905 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380832111 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380834526 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380839401 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380839404 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380839451 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380843370 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753380843376 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380843377 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380865859 SEVERE https://hanafloralpos3.com/Scripts/custom/V3/Order_RV3.js?v=0723053134 9110:32 Uncaught TypeError: Cannot read properties of undefined (reading 'replace')
+
+1753380866719 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380869188 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380869543 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380872914 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380875111 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380875183 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380875293 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380875352 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380875697 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753380885736 WARNING https://hanafloralpos3.com/Content/plugins/sweetalert/sweetalert2@11.js?v=0721095420 4:2148 "SweetAlert2: Unknown parameter \"type\""
+
+1753380898796 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380898796 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #CardReader: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #CustomerSrcCode: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #Feedbackemail: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #GiftCardReader: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #ReferralUrl: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #SendSMSToCust: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #chkCreditApproved: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #chkElectronicStatement: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #chkEmailStatement: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #chkLoyalty: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #chkblockWebOrdersSetting: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #ddlCustomerType: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 4 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #hfshop: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #lateFeeSetting: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #paymentconfirmemail: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #textCustomStatementText: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtAddress1: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtAddress2: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtAltPhone: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtAltPhoneExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlAddress1: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlAddress2: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlAltPhone: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlAltPhoneExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlCity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlCompanyName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlCountry: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlFirstName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlLastName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlPhoneNumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlPhoneNumberExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlState: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903504 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtBlZip: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtCity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtComments: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtCompanyName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtCountry: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtCustNotes: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtCutomerId: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtDafultDeliveryFee: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtDefaultDiscount: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtDiscountAmount: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtEmail: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtFirstName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtLastName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtPONumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtPassword: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtPhoneNumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtPhoneNumberExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtState: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtStoreCredit: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtTaxId: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtUserId: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #txtZip: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-EINno: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-banknumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardcity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardexpire: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardfirstname: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardlastname: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardnumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardsecurity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardstate: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-cardzipcode: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-checkamount: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-checknumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-giftcardbalance: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-giftcardcustomername: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-giftcardno: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-nameofcheck: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-paymentamount: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380903505 WARNING https://hanafloralpos3.com/Proposal/Index?ID=203448&Shop_ID=2066 - [DOM] Found 2 elements with non-unique id #unpaidinv-paymentdate: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753380906950 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380907008 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380907039 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380911551 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380913778 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1753380913892 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1753380914444 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380914470 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380916886 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380920912 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380920914 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380920970 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380924052 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380924121 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380924351 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753380950531 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380950939 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380970410 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753380972390 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1753380972411 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1753380972954 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380973132 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753380975712 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753380979689 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380979690 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380979918 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753380982611 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:28
