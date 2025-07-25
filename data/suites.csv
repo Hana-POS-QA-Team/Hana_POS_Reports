@@ -1,2 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Hana_T14 :- Add Product on Cash And Carry Page Functionality with existing customer","164639","Validate_Hana_T14_Add_Product_Test","Smoke Functional Test Cases","Fri Jun 13 10:12:13 IST 2025","failed","Fri Jun 13 10:14:58 IST 2025","com.hanapos.testcases.CashandCarry_Testcases.Hana_T14_Add_Product_FT","Hana POS - Smoke Functional Test","com.hanapos.testcases.CashandCarry_Testcases.Hana_T14_Add_Product_FT","Validate_Hana_T14_Add_Product_Test"
