@@ -1,0 +1,30 @@
+Test Case: Validate_Hana_T151_Pickup_RecipientSection_ViewMap_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 18377 ms (18.38 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 7879 ms (7.88 s)
+
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 1236 ms (1.24 s)
+
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 5451 ms (5.45 s)
+
+

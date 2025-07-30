@@ -1,0 +1,10 @@
+An exception occurred: 
+
+Field Name: Order Confirmation Toast Message
+
+DOM - Element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'
+
+Exception Type: UnexpectedException
+
+Error log Message: Element not found: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'
+

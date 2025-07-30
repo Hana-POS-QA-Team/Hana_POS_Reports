@@ -1,0 +1,17 @@
+Test case failed due to exception Click failed on Last Page Pagination Icon: 
+
+Field Name: Last Page Pagination Icon on Unpaid Invoice Tab on customer details popup in the phone order page
+
+DOM - Element: [[ChromeDriver: chrome on windows (272f4ace534954fa62adb0f69313c072)] -> xpath: //div[@id='gvCustomerUnpaidInvoices']//a[@title='Go to the last page'][1]//span]
+
+Exception Type: TimeoutException while waiting for element
+
+Error log Message: java.util.concurrent.TimeoutException
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [272f4ace534954fa62adb0f69313c072, clickElement {id=f.A4A70B340AD823977DC11DD57151FF64.d.05B0789FA1869CBE59790CCDB52D83B1.e.2182}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64778}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64778/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (272f4ace534954fa62adb0f69313c072)] -> xpath: //div[@id='gvCustomerUnpaidInvoices']//a[@title='Go to the last page'][1]//span]
+Session ID: 272f4ace534954fa62adb0f69313c072
+

@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T_Split_Payment_With_CreditCard_FT_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 16618 ms (16.62 s)
+
+

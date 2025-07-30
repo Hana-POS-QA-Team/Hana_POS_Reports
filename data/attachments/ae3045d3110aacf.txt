@@ -1,0 +1,16 @@
+Test Case: Validate_Hana_T525_CustomerSection_FirstNameField_Lookup_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 14743 ms (14.74 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 12457 ms (12.46 s)
+
+

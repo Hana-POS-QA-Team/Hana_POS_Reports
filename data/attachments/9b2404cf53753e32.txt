@@ -1,0 +1,16 @@
+Test Case: Validate_Hana_T25_Choose_Default_Values_OrderEntryAliasPhoneOrderPage_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 20599 ms (20.60 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 10009 ms (10.01 s)
+
+

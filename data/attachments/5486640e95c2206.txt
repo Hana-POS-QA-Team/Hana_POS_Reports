@@ -1,0 +1,23 @@
+Test Case: Validate_Wedding_Proposal_Cancelled_Order_Functionality
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 15322 ms (15.32 s)
+
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 33880 ms (33.88 s)
+
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 16980 ms (16.98 s)
+
+

@@ -1,0 +1,145 @@
+1753826514303 WARNING https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 10007:16 "No element found for .fixedsidebar .menuList"
+
+1753826515591 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1753826523664 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826526588 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826526825 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826528396 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826528541 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826530508 WARNING https://hanafloralpos3.com/Dashboard/Hana - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753826532554 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826533675 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826533908 WARNING https://code.highcharts.com/stock/highstock.js 8:194 "Highcharts warning: Consider including the \"accessibility.js\" module to make your chart more usable for people with disabilities. Set the \"accessibility.enabled\" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module."
+
+1753826548546 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826549446 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826549462 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826550662 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826551227 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826551700 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826551701 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826551701 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826558303 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826635310 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826635311 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826635311 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826635311 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826635521 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826635720 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826642800 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826643009 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826643019 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826643233 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826643558 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826643829 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826643830 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826643830 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826649034 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826726709 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826726709 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826726709 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826726709 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826726710 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826726868 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826728886 WARNING https://assets.magicbell.io/magicbell.esm.js 20 WebSocket connection to 'wss://realtime.ably.io/?access_token=rerP7g.JAiDNS7Nd7QmgQXPrIRyxaVoPe5-NZYGGxTNsaodOmrKNdbWKFMqYPuULX9H1FAhkk50HIRGhsZiDOHoh0-BoPbVDafglpcwksHP30dahcMTPj5C6tzxr6Ruly6oprPblFd4myop1SqZdamjTC0gmwjJkkIqbTw5qY91cXkskwAhgHi30IcVzjKQGamUHgS_P9WDuhYVn87JckPzEY00VLj7ExMUDPV-4bjtrz-c9F9hKXEYI_OX3ExaGsn49sdTa&format=json&heartbeats=true&v=1.2&agent=ably-js%2F1.2.15%20browser' failed: WebSocket is closed before the connection is established.
+
+1753826729555 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826729915 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1753826729993 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1753826730111 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826730128 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826731515 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826735186 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826735188 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826735225 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826736771 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826736851 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826737052 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826770307 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826771479 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826788548 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826788605 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826807298 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826807324 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826807338 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826815022 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826815200 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826815214 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826826272 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826834991 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826834991 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826834991 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826839699 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826876509 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826876509 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826876509 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1

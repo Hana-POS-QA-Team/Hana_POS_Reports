@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T1325_Configuration_Settings_Order_Entry_Product_Categories_Delete_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 16601 ms (16.60 s)
+
+

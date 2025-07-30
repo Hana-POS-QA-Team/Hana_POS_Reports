@@ -1,0 +1,1480 @@
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3452 ms (  3.45 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3051 ms (  3.05 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3325 ms (  3.33 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3227 ms (  3.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3164 ms (  3.16 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3220 ms (  3.22 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3260 ms (  3.26 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2991 ms (  2.99 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2918 ms (  2.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3143 ms (  3.14 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3007 ms (  3.01 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2790 ms (  2.79 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2823 ms (  2.82 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4086 ms (  4.09 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3192 ms (  3.19 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3059 ms (  3.06 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2568 ms (  2.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2871 ms (  2.87 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3120 ms (  3.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3545 ms (  3.55 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2980 ms (  2.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2983 ms (  2.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3135 ms (  3.14 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3076 ms (  3.08 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3067 ms (  3.07 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3220 ms (  3.22 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3246 ms (  3.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3180 ms (  3.18 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    978 ms (  0.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3730 ms (  3.73 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   8180 ms (  8.18 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3126 ms (  3.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4144 ms (  4.14 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3037 ms (  3.04 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3438 ms (  3.44 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2921 ms (  2.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3104 ms (  3.10 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3037 ms (  3.04 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3462 ms (  3.46 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3071 ms (  3.07 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3439 ms (  3.44 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3143 ms (  3.14 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   1049 ms (  1.05 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2994 ms (  2.99 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3234 ms (  3.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3614 ms (  3.61 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3078 ms (  3.08 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3269 ms (  3.27 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3652 ms (  3.65 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3180 ms (  3.18 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2818 ms (  2.82 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    933 ms (  0.93 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3261 ms (  3.26 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3245 ms (  3.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2998 ms (  3.00 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2930 ms (  2.93 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2859 ms (  2.86 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2922 ms (  2.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2916 ms (  2.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   1047 ms (  1.05 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3449 ms (  3.45 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    956 ms (  0.96 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2781 ms (  2.78 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3009 ms (  3.01 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3120 ms (  3.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3345 ms (  3.35 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3122 ms (  3.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3486 ms (  3.49 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3150 ms (  3.15 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3283 ms (  3.28 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3214 ms (  3.21 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3026 ms (  3.03 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4189 ms (  4.19 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3338 ms (  3.34 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3174 ms (  3.17 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3188 ms (  3.19 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2943 ms (  2.94 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2977 ms (  2.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3740 ms (  3.74 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2920 ms (  2.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3765 ms (  3.77 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3550 ms (  3.55 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3381 ms (  3.38 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3152 ms (  3.15 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3013 ms (  3.01 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3534 ms (  3.53 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3694 ms (  3.69 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4570 ms (  4.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4235 ms (  4.24 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3116 ms (  3.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2601 ms (  2.60 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   4776 ms (  4.78 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   1429 ms (  1.43 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2902 ms (  2.90 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   5758 ms (  5.76 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3225 ms (  3.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   3974 ms (  3.97 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   4270 ms (  4.27 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1222 ms (  1.22 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    470 ms (  0.47 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1223 ms (  1.22 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    450 ms (  0.45 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3062 ms (  3.06 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   8942 ms (  8.94 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   2972 ms (  2.97 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1719 ms (  1.72 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1755 ms (  1.76 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    516 ms (  0.52 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3266 ms (  3.27 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   4377 ms (  4.38 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   2450 ms (  2.45 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1278 ms (  1.28 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    151 ms (  0.15 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3229 ms (  3.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :  11449 ms ( 11.45 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   2467 ms (  2.47 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1741 ms (  1.74 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    489 ms (  0.49 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2947 ms (  2.95 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   4746 ms (  4.75 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   1448 ms (  1.45 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1477 ms (  1.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2958 ms (  2.96 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :  10754 ms ( 10.75 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   2090 ms (  2.09 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1627 ms (  1.63 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    515 ms (  0.52 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2818 ms (  2.82 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   9119 ms (  9.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   2478 ms (  2.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1709 ms (  1.71 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    542 ms (  0.54 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   1000 ms (  1.00 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   2127 ms (  2.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   1308 ms (  1.31 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1379 ms (  1.38 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    350 ms (  0.35 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   1128 ms (  1.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   5534 ms (  5.53 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   1668 ms (  1.67 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1522 ms (  1.52 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    512 ms (  0.51 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1066 ms (  1.07 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    495 ms (  0.50 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    928 ms (  0.93 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   6732 ms (  6.73 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   1661 ms (  1.66 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   4249 ms (  4.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :   1114 ms (  1.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    388 ms (  0.39 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    456 ms (  0.46 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    671 ms (  0.67 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :   1133 ms (  1.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   2203 ms (  2.20 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    475 ms (  0.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    518 ms (  0.52 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    424 ms (  0.42 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    461 ms (  0.46 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    725 ms (  0.73 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    408 ms (  0.41 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    967 ms (  0.97 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2981 ms (  2.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  14852 ms ( 14.85 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   7054 ms (  7.05 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : DeliveryConfirmation Popup 
+ Page Load Time         :   4712 ms (  4.71 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3063 ms (  3.06 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3932 ms (  3.93 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   6276 ms (  6.28 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   4146 ms (  4.15 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2719 ms (  2.72 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3011 ms (  3.01 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3475 ms (  3.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2652 ms (  2.65 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   9677 ms (  9.68 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   1535 ms (  1.54 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   2228 ms (  2.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :   1354 ms (  1.35 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3119 ms (  3.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3725 ms (  3.73 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2835 ms (  2.84 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3122 ms (  3.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2908 ms (  2.91 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3227 ms (  3.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3135 ms (  3.14 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   6222 ms (  6.22 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   8898 ms (  8.90 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3783 ms (  3.78 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   6266 ms (  6.27 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   8071 ms (  8.07 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3388 ms (  3.39 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   6160 ms (  6.16 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   5360 ms (  5.36 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3120 ms (  3.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :   9670 ms (  9.67 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   4685 ms (  4.69 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3303 ms (  3.30 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   7321 ms (  7.32 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :  15836 ms ( 15.84 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  13877 ms ( 13.88 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   2937 ms (  2.94 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3200 ms (  3.20 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  15249 ms ( 15.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   4110 ms (  4.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3106 ms (  3.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  17823 ms ( 17.82 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   4124 ms (  4.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3913 ms (  3.91 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :   9797 ms (  9.80 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   6016 ms (  6.02 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3538 ms (  3.54 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  18023 ms ( 18.02 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   5573 ms (  5.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   1066 ms (  1.07 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  18803 ms ( 18.80 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   3732 ms (  3.73 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    980 ms (  0.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  19048 ms ( 19.05 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   8956 ms (  8.96 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2961 ms (  2.96 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  16763 ms ( 16.76 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :  10395 ms ( 10.40 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : DeliveryConfirmation Popup 
+ Page Load Time         :   5285 ms (  5.29 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3235 ms (  3.24 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  13057 ms ( 13.06 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   4108 ms (  4.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3414 ms (  3.41 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  14558 ms ( 14.56 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   4807 ms (  4.81 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4230 ms (  4.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page  
+ Page Load Time         :  15501 ms ( 15.50 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Advance Dispatch Page → Delivery Date Picker field 
+ Page Load Time         :   3721 ms (  3.72 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3094 ms (  3.09 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3200 ms (  3.20 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   8993 ms (  8.99 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4395 ms (  4.40 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :  10795 ms ( 10.80 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   4082 ms (  4.08 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   8492 ms (  8.49 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   1337 ms (  1.34 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3745 ms (  3.75 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :    836 ms (  0.84 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   7345 ms (  7.35 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :   1569 ms (  1.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3503 ms (  3.50 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   7480 ms (  7.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   1286 ms (  1.29 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    669 ms (  0.67 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    982 ms (  0.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :    566 ms (  0.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   1820 ms (  1.82 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    883 ms (  0.88 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2781 ms (  2.78 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   7512 ms (  7.51 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    682 ms (  0.68 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    644 ms (  0.64 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2870 ms (  2.87 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   3985 ms (  3.99 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   1642 ms (  1.64 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :   3166 ms (  3.17 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    953 ms (  0.95 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   7250 ms (  7.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    356 ms (  0.36 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    626 ms (  0.63 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3128 ms (  3.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   3696 ms (  3.70 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    226 ms (  0.23 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    906 ms (  0.91 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3752 ms (  3.75 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3590 ms (  3.59 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :    906 ms (  0.91 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   5202 ms (  5.20 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3655 ms (  3.66 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   7085 ms (  7.09 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    941 ms (  0.94 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :   1128 ms (  1.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3249 ms (  3.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3088 ms (  3.09 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   4481 ms (  4.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    278 ms (  0.28 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    901 ms (  0.90 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   1314 ms (  1.31 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   3916 ms (  3.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    339 ms (  0.34 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    869 ms (  0.87 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3300 ms (  3.30 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   4675 ms (  4.68 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    749 ms (  0.75 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    606 ms (  0.61 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    706 ms (  0.71 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3140 ms (  3.14 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :    488 ms (  0.49 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   2392 ms (  2.39 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    169 ms (  0.17 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :   1435 ms (  1.44 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3021 ms (  3.02 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3484 ms (  3.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3526 ms (  3.53 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3652 ms (  3.65 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   3678 ms (  3.68 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   2432 ms (  2.43 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1476 ms (  1.48 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    571 ms (  0.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   2847 ms (  2.85 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3281 ms (  3.28 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3462 ms (  3.46 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3307 ms (  3.31 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3282 ms (  3.28 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   3647 ms (  3.65 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :   1081 ms (  1.08 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    923 ms (  0.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    727 ms (  0.73 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3919 ms (  3.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   3364 ms (  3.36 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   2062 ms (  2.06 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   2268 ms (  2.27 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    537 ms (  0.54 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    970 ms (  0.97 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3038 ms (  3.04 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3420 ms (  3.42 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   6194 ms (  6.19 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1946 ms (  1.95 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    567 ms (  0.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3127 ms (  3.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   5111 ms (  5.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Shop Name Dropdown field 
+ Page Load Time         :   1723 ms (  1.72 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page → Cash and Carry Payment Page 
+ Page Load Time         :   1661 ms (  1.66 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Payment Page → Process Payment Button field 
+ Page Load Time         :    778 ms (  0.78 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3003 ms (  3.00 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3040 ms (  3.04 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   5196 ms (  5.20 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   2944 ms (  2.94 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3205 ms (  3.21 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   5986 ms (  5.99 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   6850 ms (  6.85 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3372 ms (  3.37 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   5654 ms (  5.65 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :  12325 ms ( 12.33 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3221 ms (  3.22 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   6899 ms (  6.90 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   4980 ms (  4.98 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : DeliveryConfirmation Popup 
+ Page Load Time         :   4827 ms (  4.83 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3354 ms (  3.35 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   6947 ms (  6.95 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   4154 ms (  4.15 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : DeliveryConfirmation Popup 
+ Page Load Time         :   4591 ms (  4.59 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3608 ms (  3.61 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch Popup   
+ Page Load Time         :   6373 ms (  6.37 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Quick Dispatch → Select Delivery Date Picker Field 
+ Page Load Time         :   3670 ms (  3.67 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :    992 ms (  0.99 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   7297 ms (  7.30 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    219 ms (  0.22 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    604 ms (  0.60 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Publish Button on Create Proposal Page → View Proposal Page 
+ Page Load Time         :    384 ms (  0.38 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Invoice Number Hyperlink on View proposal page → Recent Order Page 
+ Page Load Time         :   6730 ms (  6.73 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3577 ms (  3.58 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   7636 ms (  7.64 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    260 ms (  0.26 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    538 ms (  0.54 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3610 ms (  3.61 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   6607 ms (  6.61 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    349 ms (  0.35 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    512 ms (  0.51 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Publish Button on Create Proposal Page → View Proposal Page 
+ Page Load Time         :    260 ms (  0.26 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Invoice Number Hyperlink on View proposal page → Recent Order Page 
+ Page Load Time         :   8361 ms (  8.36 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3562 ms (  3.56 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page          
+ Page Load Time         :   8832 ms (  8.83 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    181 ms (  0.18 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :    401 ms (  0.40 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Hana POS Login Page    
+ Page Load Time         :   3854 ms (  3.85 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 48    │ Page : Cash and Carry Page    
+ Page Load Time         :   4531 ms (  4.53 s)
+ Page Navigation Status : SUCCESS   
+

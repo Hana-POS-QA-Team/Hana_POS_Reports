@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T1264_Common_Address_Management_Add_New_Functionality
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 20181 ms (20.18 s)
+
+

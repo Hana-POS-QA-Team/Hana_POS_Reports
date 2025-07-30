@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T1209_Webadmin_Product_Add_New_Products_Drag_And_Drop_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 16636 ms (16.64 s)
+
+

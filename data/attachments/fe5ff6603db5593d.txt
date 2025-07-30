@@ -1,0 +1,30 @@
+Test Case: Validate_Hana_T641_WireOut_ProductSection_CreateRecipe_Component_Delete_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 17610 ms (17.61 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 2121 ms (2.12 s)
+
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 5356 ms (5.36 s)
+
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 4220 ms (4.22 s)
+
+

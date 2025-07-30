@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T01_CashAndCarryPage_UI_ElementsTest
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17602 ms (17.60 s)
+
+

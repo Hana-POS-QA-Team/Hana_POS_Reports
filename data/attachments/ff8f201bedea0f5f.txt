@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T253_Add_Proposal_CreateProposalPage_Wedding_SearchFilter_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 15883 ms (15.88 s)
+
+

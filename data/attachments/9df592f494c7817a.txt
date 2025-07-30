@@ -1,0 +1,10 @@
+Test case failed due to exception 
+
+Field Name: Toaster Message Text
+
+DOM - Element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'
+
+Exception Type: UnexpectedException while retrieving text from 'Toaster Message Text'
+
+Error log Message: Stale element reference: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'
+

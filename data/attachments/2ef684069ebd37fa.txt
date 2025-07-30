@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T213_View_Proposal_DatePicker_Functionality
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 20495 ms (20.50 s)
+
+

@@ -1,0 +1,23 @@
+Test Case: Validate_Hana_T15_Edit_Product_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 17108 ms (17.11 s)
+
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 26072 ms (26.07 s)
+
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 3796 ms (3.80 s)
+
+

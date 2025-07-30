@@ -1,0 +1,1 @@
+Test Step - 15 - Order confirmation page is not displayed

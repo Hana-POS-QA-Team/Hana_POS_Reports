@@ -1,0 +1,1 @@
+Test Step - 25: Gift Card paid amount is not displayed on payment details grid

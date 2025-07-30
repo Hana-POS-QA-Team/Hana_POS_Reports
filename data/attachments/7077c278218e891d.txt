@@ -1,0 +1,10 @@
+
+
+Field Name: Cash and Carry Page
+
+DOM - Element: Proxy element for: DefaultElementLocator 'By.xpath: //h2[contains(text(),'Cash And Carry')]'
+
+Exception Type: UnexpectedException
+
+Error log Message: Element not found: Proxy element for: DefaultElementLocator 'By.xpath: //h2[contains(text(),'Cash And Carry')]'
+

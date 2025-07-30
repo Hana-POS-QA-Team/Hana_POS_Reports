@@ -1,0 +1,1 @@
+Test case failed due to exception Stale element reference: [[ChromeDriver: chrome on windows (63d3844c9b9ec8ebcd44c274b12b181c)] -> xpath: (//table[@role='grid'])[2]//tbody//tr//td[3]]

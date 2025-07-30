@@ -1,0 +1,16 @@
+Test Case: Validate_Hana_T537_CustomerSection_Edit_Customer_CustomerDetails_Preferences_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 16394 ms (16.39 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 5835 ms (5.84 s)
+
+

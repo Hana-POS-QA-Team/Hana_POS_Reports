@@ -1,0 +1,1 @@
+Test Step - 10 - Entered alpha characters are accepted in recipent phone field

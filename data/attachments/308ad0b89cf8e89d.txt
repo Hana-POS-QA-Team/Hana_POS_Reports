@@ -1,0 +1,1 @@
+Test Step - 15 - Respective split payment type MOP as Split Payment is not displayed on all orders page - selected split payment view

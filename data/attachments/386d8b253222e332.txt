@@ -1,0 +1,1 @@
+Test Step - 10: Selected category is not displayed on manage proposal page

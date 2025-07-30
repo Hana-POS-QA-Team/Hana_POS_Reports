@@ -1,0 +1,16 @@
+Test Case: Validate_Hana_T596_WireOut_OrderDetailsSection_SendRemainderField_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 20414 ms (20.41 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 9684 ms (9.68 s)
+
+

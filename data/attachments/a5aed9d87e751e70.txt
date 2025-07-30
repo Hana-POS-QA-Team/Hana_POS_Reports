@@ -1,0 +1,23 @@
+Test Case: Validate_Hana_T18_Order_Confirmation_Popup_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 14991 ms (14.99 s)
+
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 3511 ms (3.51 s)
+
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ❌ FAILED
+Thread: 47
+Time Taken: 31062 ms (31.06 s)
+Error: org.openqa.selenium.NoSuchElementException: ❌ Global search box not found or invoice number '1229006791' not displayed
+

@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T1242_Webadmin_Categories_Add_New_Categories_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 15591 ms (15.59 s)
+
+

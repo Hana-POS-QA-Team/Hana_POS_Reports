@@ -1,0 +1,1 @@
+Test Step - 18 - Recipient Full Name on Recurring orders table grid is not displayed

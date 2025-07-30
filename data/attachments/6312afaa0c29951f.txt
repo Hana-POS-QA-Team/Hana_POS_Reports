@@ -1,0 +1,23 @@
+Test Case: Validate_Hana_T553_CustomerSection_Edit_Customer_CustomerDetails_PaymentDetails_ExportToExcel_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 16645 ms (16.65 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 9748 ms (9.75 s)
+
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 5996 ms (6.00 s)
+
+

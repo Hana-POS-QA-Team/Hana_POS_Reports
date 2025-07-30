@@ -1,0 +1,1 @@
+Test Step - 7 - Discount percentage is not displayed on phone order page payment section

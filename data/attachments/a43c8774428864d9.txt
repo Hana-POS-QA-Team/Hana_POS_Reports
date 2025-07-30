@@ -1,0 +1,23 @@
+Test Case: Validate_Hana_T552_CustomerSection_Edit_Customer_CustomerDetails_UnPaidInvoice_ExportToExcel_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 15578 ms (15.58 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 4301 ms (4.30 s)
+
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 5659 ms (5.66 s)
+
+

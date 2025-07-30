@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T72_Open_Drawer_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17018 ms (17.02 s)
+
+

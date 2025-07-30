@@ -1,0 +1,30 @@
+Test Case: Validate_Hana_T388_ProductSection_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ❌ FAILED
+Thread: 47
+Time Taken: 134127 ms (134.13 s)
+Error: org.openqa.selenium.TimeoutException: 
+❌ [PAGE LOAD TIMEOUT] Page did not stabilize within 120 seconds.
+
+🧾 DETAILS:
+ - Page readyState        : complete
+ - jQuery active requests : 9
+ - Images loaded          : [true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, true, true, true, true]
+ - Fonts loaded           : loaded
+ - Approx. page load time : 6595 ms
+
+🔍 POSSIBLE CAUSES:
+ - API calls are taking too long to complete (jQuery.active > 0)
+ - Some images or fonts may be slow to load
+ - JavaScript still running in the background
+
+💡 RECOMMENDED ACTIONS:
+ - Review API/network calls using F12 → Network tab
+ - Optimize large images or font files
+ - Add explicit waits for known dynamic components if needed
+
+📌 NOTE: This may not indicate a functional bug, but it slows automation stability.
+
+

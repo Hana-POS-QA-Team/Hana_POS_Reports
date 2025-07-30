@@ -1,0 +1,1 @@
+Test Step - 10 - Entered city is not displayed on phone order page recipient section

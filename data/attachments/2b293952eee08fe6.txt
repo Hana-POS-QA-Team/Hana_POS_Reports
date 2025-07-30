@@ -1,0 +1,18 @@
+
+
+Field Name: Customer Details Popup Close Icon in the customer page
+
+DOM - Element: [[ChromeDriver: chrome on windows (76919c7dc3ad4eea04cd79a872b73f23)] -> xpath: (//div[@id='CustomerDetailModal']//i)[1]]
+
+Exception Type: ElementNotInteractableException on attempt 1
+
+Error log Message: element click intercepted: Element <i class="fa fa-2x fa-times-circle modal-action-container-close-icon hana-drawer-container-close close no-padding hana-initialized" data-dismiss="modal" style="border: 3px solid red;"></i> is not clickable at point (1418, 15). Other element would receive the click: <div class="toast toast-success" style="">...</div>
+  (Session info: chrome=138.0.7204.169)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [76919c7dc3ad4eea04cd79a872b73f23, clickElement {id=f.2AA314AF06C8306C83D1A0D8D54EDBA7.d.1C92CFF936AF054D328ACAD3770A9C7F.e.1964}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57142}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57142/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (76919c7dc3ad4eea04cd79a872b73f23)] -> xpath: (//div[@id='CustomerDetailModal']//i)[1]]
+Session ID: 76919c7dc3ad4eea04cd79a872b73f23
+

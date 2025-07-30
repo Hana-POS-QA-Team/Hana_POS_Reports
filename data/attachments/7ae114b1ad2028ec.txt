@@ -1,0 +1,85 @@
+1753810164232 WARNING https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 10007:16 "No element found for .fixedsidebar .menuList"
+
+1753810165325 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1753810173699 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753810176842 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810176926 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753810178821 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810178879 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810180406 WARNING https://hanafloralpos3.com/Dashboard/Hana - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753810180464 WARNING https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:42871 "jQuery.Deferred exception: Cannot read properties of undefined (reading 'length')" "TypeError: Cannot read properties of undefined (reading 'length')\n    at i.grep (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:15343)\n    at GetHintUrl (https://hanafloralpos3.com/Scripts/hanaNew?v=Qt60jenZLoob5qDa0YDhQr1vgFMlelO6p4Eu8KEU0hw1:14998:21)\n    at HTMLDocument.\u003Canonymous> (https://hanafloralpos3.com/Scripts/hanaNew?v=Qt60jenZLoob5qDa0YDhQr1vgFMlelO6p4Eu8KEU0hw1:15088:5)\n    at l (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:41283)\n    at c (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:41599)" undefined
+
+1753810181823 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753810182036 SEVERE https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:15342 Uncaught TypeError: Cannot read properties of undefined (reading 'length')
+
+1753810182277 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753810183368 WARNING https://code.highcharts.com/stock/highstock.js 8:194 "Highcharts warning: Consider including the \"accessibility.js\" module to make your chart more usable for people with disabilities. Set the \"accessibility.enabled\" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module."
+
+1753810191326 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753810191667 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810191683 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753810192131 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810192404 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753810192693 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753810195500 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753810195671 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810195704 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753810195898 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810195954 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810196178 WARNING https://hanafloralpos3.com/Dashboard/Hana - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753810196365 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753810196973 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753810197642 WARNING https://code.highcharts.com/stock/highstock.js 8:194 "Highcharts warning: Consider including the \"accessibility.js\" module to make your chart more usable for people with disabilities. Set the \"accessibility.enabled\" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module."
+
+1753810208112 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753810208281 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810208299 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753810208571 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810209432 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753810210144 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753810216649 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753810216797 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810216832 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1386:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753810217137 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810217209 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753810217516 WARNING https://hanafloralpos3.com/Dashboard/Hana - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753810217712 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753810218393 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753810219659 WARNING https://c

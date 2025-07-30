@@ -1,0 +1,1 @@
+Test Step - 6 - Enable Inventory control toogle button is not turned off state - after clicking off toogle button in configuration settings page

@@ -1,0 +1,18 @@
+
+
+Field Name: New trip button below trip section - Advance dispatch page
+
+DOM - Element: [[ChromeDriver: chrome on windows (02cf220a28726b9a13c96b55d47053e9)] -> xpath: //button[@id='btnAdvanceDispatchCreateTrip']]
+
+Exception Type: ElementNotInteractableException on attempt 1
+
+Error log Message: element click intercepted: Element <button id="btnAdvanceDispatchCreateTrip" style="border: 3px solid red;" class="btn btn-primary m-2 btn-sm" onclick="AdvanceDispatchCreateNewTrip();">...</button> is not clickable at point (1210, 475). Other element would receive the click: <a class="saveRouteDropDownItems" onclick="SavedTripTabClick(1586932,2061);" id="1586932" aria-expanded="true">...</a>
+  (Session info: chrome=138.0.7204.169)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [02cf220a28726b9a13c96b55d47053e9, clickElement {id=f.7A8AB76C7ECC64EFACEB6F29A238A241.d.7F3E4946A67DB3930DC50B18E466B8B7.e.7593}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61974}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61974/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (02cf220a28726b9a13c96b55d47053e9)] -> xpath: //button[@id='btnAdvanceDispatchCreateTrip']]
+Session ID: 02cf220a28726b9a13c96b55d47053e9
+

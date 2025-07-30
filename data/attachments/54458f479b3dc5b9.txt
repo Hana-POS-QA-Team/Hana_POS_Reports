@@ -1,0 +1,1 @@
+Test Step - 9 - Entered alpha & spl characters are accepted in qty field

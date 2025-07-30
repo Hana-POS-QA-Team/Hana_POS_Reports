@@ -1,0 +1,2 @@
+Test Case: Validate_Hana_T689_Add_Proposal_CreateProposalPage_Event_NeworExisting_Customer_AddProposal_GeneralInfo_CustomerDetails_Functionality_Test
+----------------------------------------

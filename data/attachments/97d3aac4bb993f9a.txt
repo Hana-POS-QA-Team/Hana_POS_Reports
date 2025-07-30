@@ -1,0 +1,1 @@
+Test Step - 14 - Search Recipe autosuggestion is not displayed

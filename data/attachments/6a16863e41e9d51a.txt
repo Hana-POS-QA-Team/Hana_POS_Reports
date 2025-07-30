@@ -1,0 +1,1 @@
+Test Step - 9 - Send remainder checkbox is displayed on Order details section

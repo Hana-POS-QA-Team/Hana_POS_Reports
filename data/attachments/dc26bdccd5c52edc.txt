@@ -1,0 +1,1 @@
+Test Step - 15 - Respective split payment type Invoice number : 2061012677 is not displayed on all orders page - split payment filter view

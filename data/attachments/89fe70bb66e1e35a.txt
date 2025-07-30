@@ -1,0 +1,18 @@
+
+
+Field Name: Filter Icon on Pay Date on payment details tab
+
+DOM - Element: [[ChromeDriver: chrome on windows (7448f079d1d66fb692defe52d5220bdd)] -> xpath: (//span[@data-field='PayDate'])//span[@class='k-dropdown-wrap k-state-default']]
+
+Exception Type: ElementNotInteractable - Exception
+
+Error log Message: element click intercepted: Element <span unselectable="on" class="k-dropdown-wrap k-state-default" style="border: 3px solid red;">...</span> is not clickable at point (755, 105). Other element would receive the click: <div class="k-loading-image"></div>
+  (Session info: chrome=138.0.7204.169)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7448f079d1d66fb692defe52d5220bdd, clickElement {id=f.CA279833A3DA1B971E48D2C4094BA17D.d.70E84C671510FB615788F4F2EAE20E3E.e.5663}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56860}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56860/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7448f079d1d66fb692defe52d5220bdd)] -> xpath: (//span[@data-field='PayDate'])//span[@class='k-dropdown-wrap k-state-default']]
+Session ID: 7448f079d1d66fb692defe52d5220bdd
+

@@ -1,0 +1,192 @@
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3533 ms (  3.53 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3532 ms (  3.53 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3195 ms (  3.20 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2967 ms (  2.97 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2742 ms (  2.74 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3198 ms (  3.20 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2965 ms (  2.97 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3112 ms (  3.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3566 ms (  3.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2768 ms (  2.77 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3131 ms (  3.13 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2957 ms (  2.96 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2917 ms (  2.92 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2840 ms (  2.84 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3462 ms (  3.46 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3518 ms (  3.52 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   1003 ms (  1.00 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3075 ms (  3.08 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3161 ms (  3.16 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3017 ms (  3.02 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Proposal Page          
+ Page Load Time         :  13116 ms ( 13.12 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Proposal Page → Add Proposal Button 
+ Page Load Time         :    251 ms (  0.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Proposal Page → Add Proposal Button on Create Proposal Popup 
+ Page Load Time         :   1022 ms (  1.02 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Publish Button on Create Proposal Page → View Proposal Page 
+ Page Load Time         :    367 ms (  0.37 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3572 ms (  3.57 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2998 ms (  3.00 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3094 ms (  3.09 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3664 ms (  3.66 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2830 ms (  2.83 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3099 ms (  3.10 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3069 ms (  3.07 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3212 ms (  3.21 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3006 ms (  3.01 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2945 ms (  2.95 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :    952 ms (  0.95 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3150 ms (  3.15 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3251 ms (  3.25 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3394 ms (  3.39 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2811 ms (  2.81 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   4431 ms (  4.43 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2891 ms (  2.89 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3107 ms (  3.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3107 ms (  3.11 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2878 ms (  2.88 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3046 ms (  3.05 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   2953 ms (  2.95 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3318 ms (  3.32 s)
+ Page Navigation Status : SUCCESS   
+
+ ✅ Thread: 45    │ Page : Hana POS Login Page    
+ Page Load Time         :   3037 ms (  3.04 s)
+ Page Navigation Status : SUCCESS   
+

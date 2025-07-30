@@ -1,0 +1,233 @@
+1753813570790 WARNING https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 10007:16 "No element found for .fixedsidebar .menuList"
+
+1753813571840 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1753813578555 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753813581053 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753813581247 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753813583056 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753813583115 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753813585302 WARNING https://hanafloralpos3.com/Dashboard/Hana - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813585347 WARNING https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:42871 "jQuery.Deferred exception: Cannot read properties of undefined (reading 'length')" "TypeError: Cannot read properties of undefined (reading 'length')\n    at i.grep (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:15343)\n    at GetHintUrl (https://hanafloralpos3.com/Scripts/hanaNew?v=Qt60jenZLoob5qDa0YDhQr1vgFMlelO6p4Eu8KEU0hw1:14998:21)\n    at HTMLDocument.\u003Canonymous> (https://hanafloralpos3.com/Scripts/hanaNew?v=Qt60jenZLoob5qDa0YDhQr1vgFMlelO6p4Eu8KEU0hw1:15088:5)\n    at l (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:41283)\n    at c (https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81:1:41599)" undefined
+
+1753813586245 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813586530 SEVERE https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:15342 Uncaught TypeError: Cannot read properties of undefined (reading 'length')
+
+1753813587590 WARNING https://code.highcharts.com/stock/highstock.js 8:194 "Highcharts warning: Consider including the \"accessibility.js\" module to make your chart more usable for people with disabilities. Set the \"accessibility.enabled\" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module."
+
+1753813588008 SEVERE https://hanafloralpos3.com/bundles/Charts?v=SccSF5xgG3Ul7emB6uMdbdR5GR1LVrXSzQThnDj-yN01 0 Error: <rect> attribute width: A negative value is not valid. ("-4.625")
+
+1753813588008 SEVERE https://hanafloralpos3.com/bundles/Charts?v=SccSF5xgG3Ul7emB6uMdbdR5GR1LVrXSzQThnDj-yN01 0 Error: <rect> attribute width: A negative value is not valid. ("-4.625")
+
+1753813588081 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753813596318 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753813597892 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753813597945 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753813599856 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753813602475 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813602658 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753813614519 SEVERE https://hanafloralpos3.com/Scripts/custom/V3/Order_RV3.js?v=0723053134 13121:20 Uncaught ReferenceError: setOrderItemSelectedOptionPhoneOrder is not defined
+
+1753813680262 SEVERE https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=CashAndCarry&Invocie=1229006809&Payment=343.00&Change=0&TranType=Sales&ShopID=1229&ClerkID=1&GivenAmt=343.00&Tendered=0.00 - Failed to launch 'webclientprint:https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=CashAndCarry&Invocie=1229006809&Payment=343.00&Change=0&TranType=Sales&ShopID=1229&ClerkID=1&GivenAmt=343.00&Tendered=0.00&clientPrint&useDefaultPrinter=false&OpenDraw=false' because the scheme does not have a registered handler.
+
+1753813686878 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753813688707 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1753813688708 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1753813689279 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753813689466 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753813691816 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753813696011 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813696015 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813696078 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813698069 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813698179 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813698433 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753813708945 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813709107 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753813726162 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753813726162 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753813744047 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753813744047 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 109:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #CardReader: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #CustomerSrcCode: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #Feedbackemail: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #GiftCardReader: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #ReferralUrl: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #SendSMSToCust: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #chkCreditApproved: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #chkElectronicStatement: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #chkEmailStatement: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #chkLoyalty: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #chkblockWebOrdersSetting: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #ddlCustomerType: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 4 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #hfshop: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #lateFeeSetting: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #paymentconfirmemail: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #textCustomStatementText: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtAddress1: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtAddress2: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtAltPhone: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtAltPhoneExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlAddress1: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlAddress2: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlAltPhone: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlAltPhoneExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlCity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlCompanyName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlCountry: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlFirstName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlLastName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlPhoneNumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlPhoneNumberExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlState: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtBlZip: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCVV: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCardNumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCardZipCode: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtComments: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749906 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCompanyName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCountry: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCreditFirstName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCreditLastName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCustNotes: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtCutomerId: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtDafultDeliveryFee: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtDefaultDiscount: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtDiscountAmount: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtEmail: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtExp: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtFirstName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtLastName: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtPONumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtPassword: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtPhoneNumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtPhoneNumberExt: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtState: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtStoreCredit: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtTaxId: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtUserId: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #txtZip: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-EINno: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-banknumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardcity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardexpire: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardfirstname: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardlastname: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardnumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardsecurity: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardstate: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-cardzipcode: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-checkamount: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-checknumber: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-giftcardbalance: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-giftcardcustomername: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753813749907 WARNING https://hanafloralpos3.com/Dashboard/Order - [DOM] Found 2 elements with non-unique id #unpaidinv-giftcardno: (More info: https://goo.gl/9p2vKq) 

@@ -1,0 +1,143 @@
+1753826006476 WARNING https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 10007:16 "No element found for .fixedsidebar .menuList"
+
+1753826007505 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1753826014500 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826016919 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826017256 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826019898 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826019991 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826020528 WARNING https://hanafloralpos3.com/Dashboard/Hana - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753826021023 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826022461 WARNING https://code.highcharts.com/stock/highstock.js 8:194 "Highcharts warning: Consider including the \"accessibility.js\" module to make your chart more usable for people with disabilities. Set the \"accessibility.enabled\" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module."
+
+1753826023197 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826035714 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826036364 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826036393 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826037068 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826037802 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826038219 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826038221 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826038221 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826046904 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826153293 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826153294 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826153294 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826153294 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826154199 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826154603 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826156657 WARNING https://assets.magicbell.io/magicbell.esm.js 20 WebSocket connection to 'wss://realtime.ably.io/?access_token=rerP7g.Jyg3qDeTIfUqjopPZ-MFRAVbDa4_ZvFef4hd1QL0bBX79OIzXeLyhWcYhCgZHCcoP6yvA5pzFXVf-vJpIH3obK_-W2hRsSj39VS54Nt2JEhVeVkXlMYPb9Spxc0XbwKLLt4DQZWfIl09noZcvOZPIjoq1B74-lFmwpbZG1vIKMZ2ql8fMbN6ZAfLmsCoh7J-MxjrN71XR3sYb3-GBG8Z0orstY2Hb9Mp9NkWPAAoq7ydgjsodq2W39qn_Z0i2MpJN&format=json&heartbeats=true&v=1.2&agent=ably-js%2F1.2.15%20browser' failed: WebSocket is closed before the connection is established.
+
+1753826157319 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826157603 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1753826157611 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1753826157784 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826157821 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826158558 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826162048 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826162051 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826162132 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826164006 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826164098 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826164338 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826193533 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826194121 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826208403 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826208429 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826208439 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826223152 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826223400 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826223422 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826230601 WARNING https://hanafloralpos3.com/Scripts/plugins/kendo/kendo.all.min.js 24:31919 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826239122 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1753826239122 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826239122 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1395:286 "Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading"
+
+1753826239123 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1753826239124 WARNING https://hanafloralpos3.com/AdvancedDispatch/AdvanceDispatch?value=MDcvMzAvMjAyNXwyMDYxfDE1ODczNDN8dHJ1ZQ== - [DOM] Found 2 elements with non-unique id #frmCustomerDetails: (More info: https://goo.gl/9p2vKq) %o %o
+
+1753826239722 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826239819 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826239970 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826240811 WARNING https://rec.smartlook.com/es6/init.ef4964a19b37dbbd76cf.js 1:2881 "[Smartlook] Smartlook is stopped. Automation framework is detected."
+
+1753826244214 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244215 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244215 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244215 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244215 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244216 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244216 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244216 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244217 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826244219 WARNING https://hanafloralpos3.com/bundles/KendoGridJS?v=V3dFxAOBGreVt67wO0TPt1lXkpIpT2qpRX47hFTVefA1 0:32020 "Unknown DataSource transport type 'json'.\nVerify that registration scripts for this type are included after Kendo UI on the page."
+
+1753826244219 SEVERE https://hanafloralpos3.com/Scripts/custom/V3/Order_RV3.js?v=0723053134 6424:13 Uncaught TypeError: Cannot read properties of undefined (reading 'pager')
+
+1753826244220 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1310:150 "As of February 21st, 2024, google.maps.Marker is deprecated. Please use google.maps.marker.AdvancedMarkerElement instead. At this time, google.maps.Marker is not scheduled to be discontinued, but google.maps.marker.AdvancedMarkerElement is recommended over google.maps.Marker. While google.maps.Marker will continue to receive bug fixes for any major regressions, existing bugs in google.maps.Marker will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/deprecations for additional details and https://developers.google.com/maps/documentation/javascript/advanced-markers/migration for the migration guide."
+
+1753826245601 SEVERE https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1283:67 "InvalidValueError: not an instance of HTMLInputElement"
+
+1753826245602 WARNING https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 93:226 "As of March 1st, 2025, google.maps.places.Autocomplete is not available to new customers. Please use google.maps.places.PlaceAutocompleteElement instead. At this time, google.maps.places.Autocomplete is not scheduled to be discontinued, but google.maps.places.PlaceAutocompleteElement is recommended over google.maps.places.Autocomplete. While google.maps.places.Autocomplete will continue to receive bug fixes for any major regressions, existing bugs in google.maps.places.Autocomplete will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/legacy for additional details and https://developers.google.com/maps/documentation/javascript/places-migration-overview for the migration guide."
+
+1753826251068 SEVERE https://maps.googleapis.com/maps/api/js?key=AIzaSyAb8wC3XJI6xmg2olTAH14dFF6Rx40d8HI&libraries=places,geometry 1283:67 "InvalidValueError: not an instance of HTMLI

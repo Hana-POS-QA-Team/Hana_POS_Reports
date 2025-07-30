@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T1049_Ecommerce_Checkout_Page_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 16449 ms (16.45 s)
+
+

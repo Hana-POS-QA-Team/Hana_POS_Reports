@@ -1,0 +1,23 @@
+Test Case: Validate_Hana_T300_OrderEntry_Delivery_CustomerSection_AltPhoneNumberField_Lookup_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 15626 ms (15.63 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 6481 ms (6.48 s)
+
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 1427 ms (1.43 s)
+
+

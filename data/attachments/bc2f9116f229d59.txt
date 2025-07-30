@@ -1,0 +1,1 @@
+Test Step - 12 - In Item code row 1 on product section autosuggestions are not displayed

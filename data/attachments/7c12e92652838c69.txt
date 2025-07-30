@@ -1,0 +1,1 @@
+Test Step - 10: Designed label is not displayed for designed order

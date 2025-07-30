@@ -1,0 +1,4 @@
+ ✅ Thread: 46    │ Page : Hana POS Login Page    
+ Page Load Time         :   3874 ms (  3.87 s)
+ Page Navigation Status : SUCCESS   
+

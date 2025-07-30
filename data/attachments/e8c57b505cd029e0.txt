@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T1271_Common_Address_Management_Delete_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17764 ms (17.76 s)
+
+

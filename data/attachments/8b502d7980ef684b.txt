@@ -1,0 +1,18 @@
+
+
+Field Name: Customer Search textbox field - on cash and carry page
+
+DOM - Element: [[ChromeDriver: chrome on windows (3856a8967f60b90709753f9856b8ce64)] -> xpath: //input[@id='txtSearchProduct']]
+
+Exception Type: NoSuchElementException: Autosuggestion list is empty for customer search textbox field: Abish David
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+
+Error log Message: Autosuggestion list is empty for customer search textbox field: Abish David
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+

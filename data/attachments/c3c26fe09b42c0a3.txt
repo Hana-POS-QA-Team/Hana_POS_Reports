@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T04_WalkingSetting_UIElement_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 16388 ms (16.39 s)
+
+

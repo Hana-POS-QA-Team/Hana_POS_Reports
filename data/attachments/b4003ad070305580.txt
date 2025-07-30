@@ -1,0 +1,1 @@
+Test case failed due to exception Element not found: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'

@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T03_Update_DiscountOrder_LevelTest
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 15537 ms (15.54 s)
+
+

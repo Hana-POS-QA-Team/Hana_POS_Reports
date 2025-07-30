@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T20_OrderConfirmationEmail_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 23806 ms (23.81 s)
+
+

@@ -1,0 +1,9 @@
+Test Case: Validate_Hana_T1320_Configuration_Settings_Order_Entry_Product_Categories_Add_New_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 13948 ms (13.95 s)
+
+

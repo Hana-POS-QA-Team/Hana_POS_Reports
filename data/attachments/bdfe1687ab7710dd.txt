@@ -1,0 +1,9 @@
+Test Case: Hana_T579_Add_Proposal_CreateProposalPage_Wedding_ExistingCustomer_AddNewProposal_HeaderTab_MoreActions_CustomerView_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 14703 ms (14.70 s)
+
+

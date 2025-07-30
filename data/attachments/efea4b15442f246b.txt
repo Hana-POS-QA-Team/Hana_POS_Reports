@@ -1,0 +1,10 @@
+Test case failed due to exception 
+
+Field Name: Category Name - Item & Products Tab Product Table grid 
+
+DOM - Element: Proxy element for: DefaultElementLocator 'By.xpath: //table[@id='tblPropPackItemsProducts']//tbody//tr[1]//td[1]//label//strong'
+
+Exception Type: UnexpectedException while retrieving text from 'Category Name - Item & Products Tab Product Table grid '
+
+Error log Message: Element not found: Proxy element for: DefaultElementLocator 'By.xpath: //table[@id='tblPropPackItemsProducts']//tbody//tr[1]//td[1]//label//strong'
+

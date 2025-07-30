@@ -1,0 +1,16 @@
+Test Case: Validate_Hana_T528_CustomerSection_PhoneNumberField_Lookup_Functionality_Test
+----------------------------------------
+
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 16087 ms (16.09 s)
+
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 48
+Time Taken: 2305 ms (2.31 s)
+
+

@@ -1,0 +1,1 @@
+Test Step - 22 : Product level inventory value is reduced if disabled the inventory toggle button on product management page

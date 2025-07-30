@@ -1,0 +1,18 @@
+
+
+Field Name: Customer Notes on Customer Details Popup
+
+DOM - Element: [[ChromeDriver: chrome on windows (9a210018a234175aff5d1a910fe7af61)] -> xpath: (//textarea[@id='txtCustNotes'])[1]]
+
+Exception Type: ElementNotInteractable exception while performing click and type on field 'Customer Notes on Customer Details Popup'
+
+Error log Message: element click intercepted: Element <textarea placeholder="Enter Notes" class="form-control" id="txtCustNotes" name="txtCustNotes" style="margin-bottom: 3px; height: 106px;"></textarea> is not clickable at point (651, 452). Other element would receive the click: <div class="sa-error-container show">...</div>
+  (Session info: chrome=138.0.7204.169)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9a210018a234175aff5d1a910fe7af61, clickElement {id=f.A5D502CDEDE6FB02BBF248DCEF28922B.d.6096D48FDF3D699338660EF7932F2F6D.e.961}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56928}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56928/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9a210018a234175aff5d1a910fe7af61)] -> xpath: (//textarea[@id='txtCustNotes'])[1]]
+Session ID: 9a210018a234175aff5d1a910fe7af61
+

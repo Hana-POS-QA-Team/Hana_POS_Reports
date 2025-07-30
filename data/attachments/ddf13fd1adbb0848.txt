@@ -1,0 +1,1 @@
+Test Step - 7 - Customer section last name autosuggestion is not displayed on phone order page
