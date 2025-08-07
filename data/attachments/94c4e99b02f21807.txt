@@ -1,0 +1,43 @@
+Test Case: Validate_Hana_T761_Quick_Dispatch_Trip_Section_Remote_Print_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 17488 ms (17.49 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 1994 ms (1.99 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5786 ms (5.79 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 4515 ms (4.52 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 1177 ms (1.18 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 34367 ms (34.37 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 4229 ms (4.23 s)
+

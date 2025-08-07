@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T249_Pickup_PaymentSection_InvoiceHouseAccount_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 19504 ms (19.50 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 8815 ms (8.82 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 1131 ms (1.13 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 5348 ms (5.35 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 4486 ms (4.49 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 1264 ms (1.26 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 31247 ms (31.25 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 3818 ms (3.82 s)
+

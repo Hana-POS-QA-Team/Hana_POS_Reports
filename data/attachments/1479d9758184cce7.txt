@@ -1,1 +1,0 @@
-Test case failed due to exception Failed to search and select customer in create proposal popup after 3 attempts.

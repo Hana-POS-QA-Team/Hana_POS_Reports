@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew
+
+🕒 Time: August 06 2025 11:09:39 PM
+
+📄 Message: Test Step - 18 : Merchant Copy Note is not matching Known Issue

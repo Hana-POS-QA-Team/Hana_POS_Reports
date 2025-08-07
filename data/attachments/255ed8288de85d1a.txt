@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T223_OrderEntryPage_Pickup_Payment_Section_Paid_Outside_Hana_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 18340 ms (18.34 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 9014 ms (9.01 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 2015 ms (2.02 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5796 ms (5.80 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5012 ms (5.01 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 1209 ms (1.21 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 32560 ms (32.56 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 3902 ms (3.90 s)
+

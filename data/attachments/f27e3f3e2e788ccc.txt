@@ -1,0 +1,73 @@
+Test Case: Validate_Hana_T1502_AllOrders_Verify_Status_is_ChangedTo_RedeliverFlowersBackInStore_When_Florist_Redelivered_The_Delivered_Order_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 15568 ms (15.57 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 9127 ms (9.13 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 1487 ms (1.49 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 5518 ms (5.52 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 3975 ms (3.98 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 1343 ms (1.34 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 32241 ms (32.24 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 36725 ms (36.73 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 37156 ms (37.16 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 3967 ms (3.97 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 38652 ms (38.65 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 3674 ms (3.67 s)
+

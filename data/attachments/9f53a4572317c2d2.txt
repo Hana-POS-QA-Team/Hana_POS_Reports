@@ -1,1 +1,0 @@
-Test Step - 23 : Current available stock is reduced if disabled the inventory toggle button on product management page

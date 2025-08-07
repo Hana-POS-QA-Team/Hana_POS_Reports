@@ -1,1 +1,0 @@
-Test Step - 11 : Order confirmation toast message is not displayed

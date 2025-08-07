@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T423_Payment_Section_Cash_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 19450 ms (19.45 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 8131 ms (8.13 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 1124 ms (1.12 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5282 ms (5.28 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 3434 ms (3.43 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 1157 ms (1.16 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 31431 ms (31.43 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 3959 ms (3.96 s)
+

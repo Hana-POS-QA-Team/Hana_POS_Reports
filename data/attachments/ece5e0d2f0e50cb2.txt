@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T22_Choose_Default_Values_Page_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 16225 ms (16.23 s)
+

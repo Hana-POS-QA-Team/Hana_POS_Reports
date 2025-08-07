@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/Index
+
+🕒 Time: August 07 2025 02:50:56 AM
+
+📄 Message: Test Step - 6: Alternative Phone number of customer is not displayed in create proposal popup

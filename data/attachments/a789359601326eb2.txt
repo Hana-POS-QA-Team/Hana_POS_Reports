@@ -1,0 +1,31 @@
+Test Case: Validate_Hana_T415_ProductSection_CreateRecipe_LabourCostClear_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 17785 ms (17.79 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 8440 ms (8.44 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 1328 ms (1.33 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 5830 ms (5.83 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 3808 ms (3.81 s)
+

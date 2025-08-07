@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T05_WalkingSetting_AddNewBtn_UIElement_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 19180 ms (19.18 s)
+

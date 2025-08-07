@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T255_OrderEntryPage_ViewMap_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 21234 ms (21.23 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 9090 ms (9.09 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 5602 ms (5.60 s)
+

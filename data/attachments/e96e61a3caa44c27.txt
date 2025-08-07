@@ -1,0 +1,91 @@
+Test Case: Validate_Hana_T1476_OrderPage_AllOrders_Verify_Status_is_ChangedTo_Delivered_From_RedeliverFlowersBackInStore_Using_OrderConfirmationPage_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 16415 ms (16.42 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 9339 ms (9.34 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 8289 ms (8.29 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 8345 ms (8.35 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5545 ms (5.55 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 1206 ms (1.21 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 39244 ms (39.24 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 4151 ms (4.15 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 32673 ms (32.67 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 4820 ms (4.82 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 42202 ms (42.20 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 4477 ms (4.48 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 42134 ms (42.13 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 47507 ms (47.51 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 40901 ms (40.90 s)
+

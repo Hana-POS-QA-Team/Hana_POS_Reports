@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T75_Payout_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 45
-Time Taken: 16590 ms (16.59 s)
-
-

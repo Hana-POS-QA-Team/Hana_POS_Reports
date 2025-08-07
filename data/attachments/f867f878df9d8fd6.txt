@@ -1,0 +1,22 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 06 2025 09:51:33 PM
+
+📄 Message: 
+
+Field Name: Filter Icon on Pay Date on payment details tab
+
+DOM - Element: [[ChromeDriver: chrome on windows (58f720e84d8ba3cd2a74d9d7c290458b)] -> xpath: (//span[@data-field='PayDate'])//span[@class='k-dropdown-wrap k-state-default']]
+
+Exception Type: ElementNotInteractable - Exception
+
+Error log Message: element click intercepted: Element <span unselectable="on" class="k-dropdown-wrap k-state-default" style="border: 3px solid red;">...</span> is not clickable at point (755, 105). Other element would receive the click: <div class="k-loading-image"></div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58f720e84d8ba3cd2a74d9d7c290458b, clickElement {id=f.EF1391DDF37C812B053DA8EE3ADD6BAC.d.DAE67BC19F8FFD00B6A179182C6D0964.e.5686}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63216}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63216/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (58f720e84d8ba3cd2a74d9d7c290458b)] -> xpath: (//span[@data-field='PayDate'])//span[@class='k-dropdown-wrap k-state-default']]
+Session ID: 58f720e84d8ba3cd2a74d9d7c290458b
+

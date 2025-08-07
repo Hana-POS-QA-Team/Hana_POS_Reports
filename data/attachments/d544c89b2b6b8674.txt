@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T61_Payments_GiftCard_Payment_Section_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 16361 ms (16.36 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 17377 ms (17.38 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 3900 ms (3.90 s)
+

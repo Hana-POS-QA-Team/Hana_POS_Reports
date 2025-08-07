@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T43_Payments_Split_Payment_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 16935 ms (16.94 s)
+

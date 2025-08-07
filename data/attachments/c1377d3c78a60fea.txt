@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T773_Quick_Dispatch_Trip_Section_Add_Payrate_Payable_Unchecked_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 16677 ms (16.68 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 15718 ms (15.72 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 5510 ms (5.51 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 4581 ms (4.58 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 1170 ms (1.17 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 43299 ms (43.30 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 4448 ms (4.45 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 15036 ms (15.04 s)
+

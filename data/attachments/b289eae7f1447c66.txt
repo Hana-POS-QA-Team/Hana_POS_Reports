@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/Index
+
+🕒 Time: August 07 2025 02:45:02 AM
+
+📄 Message: Test case failed due to exception Stale element reference: [[ChromeDriver: chrome on windows (ce92651f732493be290a4cf1563dfed8)] -> xpath: (//table[@role='grid'])[2]//tbody//tr//td[3]]

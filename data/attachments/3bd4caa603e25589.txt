@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1206_Webadmin_Add_New_Product_test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 20888 ms (20.89 s)
+

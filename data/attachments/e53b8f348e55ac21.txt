@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://bestfloristhana.hanawebsites.com/
+
+🕒 Time: August 07 2025 03:35:59 AM
+
+📄 Message: Test Step - 12: Coupon information on home page is displayed if we disabled the coupon on website toggle button

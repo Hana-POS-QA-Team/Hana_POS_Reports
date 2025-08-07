@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/admin/ItemManagement?IsHideMainHeader=true
+
+🕒 Time: August 07 2025 04:56:23 AM
+
+📄 Message: Test Step - 22 : Product level inventory value is reduced if disabled the inventory toggle button on product management page

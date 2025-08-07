@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T53_Payments_Check_Payment_Section_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 17416 ms (17.42 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 23719 ms (23.72 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 3813 ms (3.81 s)
+

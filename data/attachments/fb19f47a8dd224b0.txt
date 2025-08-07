@@ -1,1 +1,0 @@
-Test Step - 18: Known Issue: --Select Driver-- Option is not displaying as default option in select driver dropdown - Trip section

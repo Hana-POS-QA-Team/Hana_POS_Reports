@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew
+
+🕒 Time: August 07 2025 03:48:42 AM
+
+📄 Message: Test Step - 12 - Entered alpha characters are accepted in zipcode field

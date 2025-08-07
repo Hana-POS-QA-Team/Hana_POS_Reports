@@ -1,1 +1,0 @@
-Test case failed due to exception java.lang.RuntimeException: Unexpected exception while clicking element: [[ChromeDriver: chrome on windows (0a68b62e3c0c5f3292ae98af4881af3a)] -> xpath: (//table[@class='table-condensed'])[2]//tr//td]

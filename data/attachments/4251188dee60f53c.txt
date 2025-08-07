@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T630_WireOut_ProductSection_CreateRecipe_ItemGallery_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 19105 ms (19.11 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 8912 ms (8.91 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 5811 ms (5.81 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 3653 ms (3.65 s)
+

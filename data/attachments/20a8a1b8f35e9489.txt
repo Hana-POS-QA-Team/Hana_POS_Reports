@@ -1,1 +1,0 @@
-Test case failed due to exception Element not found: Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='divDocUploadHolder_1'] div:nth-child(2) a:nth-child(1)'

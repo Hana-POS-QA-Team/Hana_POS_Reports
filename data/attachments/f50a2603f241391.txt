@@ -1,0 +1,55 @@
+Test Case: Validate_Hana_T129_Pickup_CustomerSection_Edit_Customer_CustomerDetails_OrderDetails_InvoiceSearchFilter_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 17307 ms (17.31 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 10392 ms (10.39 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 11019 ms (11.02 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5787 ms (5.79 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 4187 ms (4.19 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 1183 ms (1.18 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 8606 ms (8.61 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5078 ms (5.08 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 5731 ms (5.73 s)
+

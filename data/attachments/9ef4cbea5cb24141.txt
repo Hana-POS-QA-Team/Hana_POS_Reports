@@ -1,9 +1,0 @@
-Test Case: Hana_T741_Add_Proposal_CreateProposalPage_Wedding_NewCustomer_AddNewProposal_InspirationBoard_Delete_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 45
-Time Taken: 16376 ms (16.38 s)
-
-

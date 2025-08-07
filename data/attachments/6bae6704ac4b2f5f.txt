@@ -1,0 +1,13 @@
+Test Case: Validate_Hana_T529_CustomerSection_AltPhoneNumberField_Lookup_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 20369 ms (20.37 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 15430 ms (15.43 s)
+

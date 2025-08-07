@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T35_CashAndCarry_Switching_Between_Shops_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 7937
-Time Taken: 17007 ms (17.01 s)
-
-

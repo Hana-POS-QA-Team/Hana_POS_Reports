@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T88_CashRegistery_Customer_Copy_Checked_FT
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 46
-Time Taken: 15075 ms (15.08 s)
-
-

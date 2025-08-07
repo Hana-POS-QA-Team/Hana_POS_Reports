@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/AdvancedDispatch/AdvanceDispatch
+
+🕒 Time: August 07 2025 01:57:45 AM
+
+📄 Message: Test Step - 18: Known Issue: --Select Driver-- Option is not displaying as default option in select driver dropdown - Trip section

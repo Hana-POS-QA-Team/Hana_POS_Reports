@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1321_Configuration_Settings_Order_Entry_Product_Categories_Edit_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 45
-Time Taken: 14406 ms (14.41 s)
-
-

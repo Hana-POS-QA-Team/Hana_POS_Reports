@@ -1,9 +1,0 @@
-Test Case: Validate_T754_Quick_Dispatch_Trip_Section_New_Trip_Modified_Trip_Functionality
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 15284 ms (15.28 s)
-
-

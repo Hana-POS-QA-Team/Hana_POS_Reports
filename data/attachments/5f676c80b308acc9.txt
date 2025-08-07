@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 03:50:20 AM
+
+📄 Message: Test Step - 42 - Country is not displayed on phone order page product details section

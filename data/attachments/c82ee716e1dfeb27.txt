@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1664_HanaPOS_Proposal_Proposal_settings_Event_Verify_the_Delivery_Fee_In_Percentage_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 18204 ms (18.20 s)
-
-

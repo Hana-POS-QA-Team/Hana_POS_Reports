@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T06_WalkingSetting_AddNew_CashRegister_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 16764 ms (16.76 s)
-
-

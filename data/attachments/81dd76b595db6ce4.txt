@@ -1,0 +1,37 @@
+Test Case: pre_requisite_for_Sisterchicks_Shop_Invoice_Hana_T721
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 17550 ms (17.55 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 9496 ms (9.50 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 6845 ms (6.85 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 4047 ms (4.05 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 1374 ms (1.37 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 26141 ms (26.14 s)
+

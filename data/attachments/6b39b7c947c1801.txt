@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1348_Configuration_Settings_Order_Entry_Product_Categories_IsWedding_Toogle_Enabled_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 17475 ms (17.48 s)
+

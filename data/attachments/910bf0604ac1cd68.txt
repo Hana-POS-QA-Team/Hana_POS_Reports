@@ -1,1 +1,0 @@
-Test Step - 8 - Enable Inventory control toogle button is not turned off

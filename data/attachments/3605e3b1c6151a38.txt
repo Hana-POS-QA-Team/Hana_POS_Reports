@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T340_Add_Proposal_CreateProposalPage_Wedding_ExistingCustomer_AddNewProposal_HeaderTab_Overview_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 45
-Time Taken: 17621 ms (17.62 s)
-
-

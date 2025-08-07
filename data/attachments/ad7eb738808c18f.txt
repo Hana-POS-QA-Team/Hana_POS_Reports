@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T118_Pickup_CustomerSection_Edit_Customer_CustomerDetails_UnPaidInvoice_ExportToExcel_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 17972 ms (17.97 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 8238 ms (8.24 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 1337 ms (1.34 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 5653 ms (5.65 s)
+

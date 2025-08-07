@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T1316_Configuration_Settings_Order_Entry_WireOut_Methods_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 18473 ms (18.47 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 18088 ms (18.09 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 11662 ms (11.66 s)
+

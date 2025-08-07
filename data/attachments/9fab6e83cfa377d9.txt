@@ -1,2 +1,0 @@
-Test Step - 39 - After changing the delivery type - 
-Selected Payment type is not displayed on phone order page payment section

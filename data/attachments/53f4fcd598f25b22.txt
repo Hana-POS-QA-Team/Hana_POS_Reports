@@ -1,1 +1,0 @@
-Test Step - 10 - Entered date value on date picker input box field is not displayed

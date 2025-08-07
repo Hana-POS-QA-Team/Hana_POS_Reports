@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1650_Proposal_settings_Event_Verify_the_delivery_fee_tax_calculation_for_label_Include_Delivery_Fee_in_Tax_Calculation_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 16491 ms (16.49 s)
+

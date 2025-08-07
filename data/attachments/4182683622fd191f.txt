@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205652&Shop_ID=2061&StatusID=1&ProposalType=Wedding&IsNew=1
+
+🕒 Time: August 07 2025 03:01:19 AM
+
+📄 Message: Test Step - 12: Uploaded first document is not displayed on documents and images tab

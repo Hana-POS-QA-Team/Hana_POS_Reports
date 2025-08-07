@@ -1,0 +1,19 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Dashboard/Order
+
+🕒 Time: August 07 2025 12:02:58 AM
+
+📄 Message: 
+
+Field Name: Dispatch Save button in Quick Dispatch
+
+DOM - Element: [[ChromeDriver: chrome on windows (80356f4d30adf1d2fae53e99b3eab513)] -> id: btnDispatchSave]
+
+Exception Type: TimeoutException while waiting for element
+
+Error log Message: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (80356f4d30adf1d2fae53e99b3eab513)] -> id: btnDispatchSave] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60508}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60508/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 80356f4d30adf1d2fae53e99b3eab513
+

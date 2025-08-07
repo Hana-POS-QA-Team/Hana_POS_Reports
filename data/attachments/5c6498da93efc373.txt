@@ -1,1 +1,0 @@
-Known Issue: Test Step - 14 - Filtered Order Date with invalid in Order date search box entered data is not cleared in order details tab at customer details popup

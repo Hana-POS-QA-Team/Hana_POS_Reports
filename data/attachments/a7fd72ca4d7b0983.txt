@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T103_Pickup_CustomerSection_Edit_Customer_CustomerDetails_Preferences_FT_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 27242 ms (27.24 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 9871 ms (9.87 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 1824 ms (1.82 s)
+

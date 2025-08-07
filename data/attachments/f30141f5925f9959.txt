@@ -1,9 +1,0 @@
-Test Case: Hana_T769_Add_Proposal_CreateProposalPage_Wedding_NewCustomer_AddNewProposal_NotesandInstruction_PossibilitiesofUpgrade_SpecialInstruction_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 48
-Time Taken: 15487 ms (15.49 s)
-
-

@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T49_Payments_CreditCard_Validation_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 16970 ms (16.97 s)
+

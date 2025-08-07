@@ -1,0 +1,7 @@
+Test Case: Hana_T717_Add_Proposal_CreateProposalPage_Wedding_ExistingCustomer_AddNewProposal_DocumentsAndImages_addFiles_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 17905 ms (17.91 s)
+

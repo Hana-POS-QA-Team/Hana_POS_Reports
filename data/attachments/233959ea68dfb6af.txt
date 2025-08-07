@@ -1,1 +1,0 @@
-Test Step - 6 - Added city on recipient section in phoneorder page and compared with order confirmation page displayed city are not matched

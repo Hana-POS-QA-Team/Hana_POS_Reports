@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1208_Email_Campaign_Regression_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 46
-Time Taken: 16569 ms (16.57 s)
-
-

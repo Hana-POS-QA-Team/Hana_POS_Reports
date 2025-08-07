@@ -1,3 +1,0 @@
-Invoice Number: 2061012677
-Retries: 3
-Last Attempt Status: Failed

@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1351_Configuration_Settings_Order_Entry_Product_Categories_IsWedding_Toogle_Disabled_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 17177 ms (17.18 s)
-
-

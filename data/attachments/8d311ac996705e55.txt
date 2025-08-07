@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/AdvancedDispatch/AdvanceDispatch
+
+🕒 Time: August 07 2025 04:40:34 AM
+
+📄 Message: Test Step 4 : Order is not displaying in the Invalid Address Pop-up is not displaying

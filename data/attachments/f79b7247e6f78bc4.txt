@@ -1,0 +1,7 @@
+Test Case: Hana_T738_Add_Proposal_CreateProposalPage_Event_ExistingCustomer_AddNewProposal_DocumentsAndImages_UploadImages_Delete_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 20741 ms (20.74 s)
+

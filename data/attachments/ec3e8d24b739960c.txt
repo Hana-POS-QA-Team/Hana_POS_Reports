@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 06 2025 08:14:01 PM
+
+📄 Message: Test Step - 14 - Search Recipe autosuggestion is not displayed

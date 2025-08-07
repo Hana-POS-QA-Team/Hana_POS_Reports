@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T158_Pickup_RecipientSection_SelectOptionMultipleSelect_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 17543 ms (17.54 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 10612 ms (10.61 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 1399 ms (1.40 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 44175 ms (44.18 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 5321 ms (5.32 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 1279 ms (1.28 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 44088 ms (44.09 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 4159 ms (4.16 s)
+

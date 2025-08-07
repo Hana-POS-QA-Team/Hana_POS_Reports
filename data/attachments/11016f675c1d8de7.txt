@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com//Order/ordersnew?InvoiceNumber=2061014744
+
+🕒 Time: August 06 2025 10:57:10 PM
+
+📄 Message: Test Step - 18: Process payment button is not disabled

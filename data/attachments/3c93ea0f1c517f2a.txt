@@ -1,9 +1,0 @@
-Test Case: Hana_T750_Add_Proposal_CreateProposalPage_Wedding_NewCustomer_AddNewProposal_NotesandInstruction_PossibilitiesofUpgrade_AddItem_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 14558 ms (14.56 s)
-
-

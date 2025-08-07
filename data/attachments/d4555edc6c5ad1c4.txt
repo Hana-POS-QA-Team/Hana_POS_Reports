@@ -1,1 +1,0 @@
-Test Step - 12: Coupon information on home page is displayed if we disabled the coupon on website toggle button

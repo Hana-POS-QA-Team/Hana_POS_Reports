@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Dashboard/Order
+
+🕒 Time: August 07 2025 12:27:11 AM
+
+📄 Message: Test Step - 15 - Respective split payment type Invoice number : 2061014789 is not displayed on all orders page - split payment filter view

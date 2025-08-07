@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1266_Common_Address_Management_Edit_New_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 19492 ms (19.49 s)
-
-

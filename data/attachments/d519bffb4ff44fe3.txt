@@ -1,1 +1,0 @@
-Test Step - 42 - Country is not displayed on phone order page product details section

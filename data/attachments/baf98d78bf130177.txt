@@ -1,1 +1,0 @@
-Test Step - 10 - Entered address 2 is not displayed on phone order page recipient section

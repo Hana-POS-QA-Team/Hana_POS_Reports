@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T_Customer_Update_CustomerDetails_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 48
-Time Taken: 15947 ms (15.95 s)
-
-

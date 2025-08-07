@@ -1,0 +1,43 @@
+Test Case: Validate_Hana_T777_Quick_Dispatch_Edit_Trip_Section_Route_Planner_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 16558 ms (16.56 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 13348 ms (13.35 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 5344 ms (5.34 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 4005 ms (4.01 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 1585 ms (1.59 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 36944 ms (36.94 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 4855 ms (4.86 s)
+

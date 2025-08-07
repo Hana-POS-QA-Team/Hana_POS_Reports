@@ -1,1 +1,0 @@
-Test case failed due to exception Error while calculating expected grand total.

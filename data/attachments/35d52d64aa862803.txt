@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205676&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1
+
+🕒 Time: August 07 2025 03:15:03 AM
+
+📄 Message: Test case failed due to exception Image 3 edit upload failed.

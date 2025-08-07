@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T254_Add_Proposal_CreateProposalPage_Wedding_ExistingCustomer_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 53
+Time Taken: 22031 ms (22.03 s)
+

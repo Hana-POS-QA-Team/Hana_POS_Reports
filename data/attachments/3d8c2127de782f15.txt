@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1276_Configuration_Settings_Order_Entry_Coupon_Details_Add_New_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 19775 ms (19.78 s)
-
-

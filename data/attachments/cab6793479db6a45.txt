@@ -1,1 +1,0 @@
-Test case failed due to exception Stale element reference: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'

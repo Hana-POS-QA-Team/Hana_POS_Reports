@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T46_Payments_CreditCard_SwipeCard_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 45
-Time Taken: 16382 ms (16.38 s)
-
-

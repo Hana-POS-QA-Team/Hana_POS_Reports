@@ -1,0 +1,13 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 06 2025 09:14:23 PM
+
+📄 Message: Test case failed due to exception element click intercepted: Element <div class="recipeIconWrap" style="border: 3px solid red;">...</div> is not clickable at point (1120, 455). Other element would receive the click: <div id="Admin_loader" style="text-align: center; position: fixed; z-index: 111111111; height: 100%; background: rgba(243, 241, 239, 0.86); top: 0%; width: 100%; left: 0px;">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9bc7410ee3645003567881a876016a7c, clickElement {id=f.233A4A851F5FCE6773638C0DF4AAC7D6.d.15AAD80CE502B63BE69C687039D7C133.e.2703}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59966}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59966/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9bc7410ee3645003567881a876016a7c)] -> xpath: //input[@id='orderItem1']/following::td//a//div[@class='recipeIconWrap']]
+Session ID: 9bc7410ee3645003567881a876016a7c

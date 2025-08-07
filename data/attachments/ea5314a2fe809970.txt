@@ -1,1 +1,0 @@
-Test Step - 9: Entered status as del is not displayed

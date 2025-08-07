@@ -1,1 +1,0 @@
-Test Step - 6: Searched customer full name is not displayed on create proposal popup

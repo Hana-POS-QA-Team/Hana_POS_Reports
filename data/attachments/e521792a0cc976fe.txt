@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T68_Payments_Donation_Payment_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 47
-Time Taken: 19295 ms (19.30 s)
-
-

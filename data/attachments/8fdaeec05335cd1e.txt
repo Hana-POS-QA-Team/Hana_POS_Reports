@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/AdvancedDispatch/AdvanceDispatch
+
+🕒 Time: August 07 2025 04:37:08 AM
+
+📄 Message: Test Step 7 - Address is not matching with the invoice

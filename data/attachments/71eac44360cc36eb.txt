@@ -1,1 +1,0 @@
-Test Step - 23 : Current available stock is reduced if inventory is disabled on product management page

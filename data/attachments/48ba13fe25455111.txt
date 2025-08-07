@@ -1,1 +1,0 @@
-Test Step - 6: Alternative Phone number of customer is not displayed in create proposal popup

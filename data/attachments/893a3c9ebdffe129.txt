@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew#
+
+🕒 Time: August 06 2025 11:42:52 PM
+
+📄 Message: Test Step - 6 : Cash And Carry payment page is not displayed

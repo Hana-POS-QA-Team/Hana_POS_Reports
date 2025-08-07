@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T42_Payment_Convert_Delivery_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 54
+Time Taken: 16926 ms (16.93 s)
+

@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew
+
+🕒 Time: August 06 2025 11:31:36 PM
+
+📄 Message: Known Issue - Test Step - 4: Merchant copy note is not getting saved

@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T093_Pickup_CustomerSection_CompanyNameFieldLookup_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 47535 ms (47.54 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 10841 ms (10.84 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 56
+Time Taken: 842 ms (0.84 s)
+

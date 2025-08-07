@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1340_Configuration_Settings_Order_Entry_Product_Categories_IsEvent_Toogle_Disabled_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 46
-Time Taken: 16818 ms (16.82 s)
-
-

@@ -1,1 +1,0 @@
-Test Step - 18 : Merchant Copy Note is not matching Known Issue

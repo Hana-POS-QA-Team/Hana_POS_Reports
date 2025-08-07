@@ -1,1 +1,0 @@
-Known Issue - Test Step - 4: Merchant copy note is not getting saved

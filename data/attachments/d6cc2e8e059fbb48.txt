@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T28_GiftCard_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 45
-Time Taken: 16603 ms (16.60 s)
-
-

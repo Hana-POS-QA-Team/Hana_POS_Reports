@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205671&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1
+
+🕒 Time: August 07 2025 03:10:45 AM
+
+📄 Message: Test Step - 12 -Entered alternative contact details city is not displayed

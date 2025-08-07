@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T_Payments_With_EGiftCard_Under_Payment_Section_GiftCard_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 15574 ms (15.57 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 16786 ms (16.79 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 55
+Time Taken: 3540 ms (3.54 s)
+

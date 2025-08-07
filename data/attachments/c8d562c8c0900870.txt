@@ -1,9 +1,0 @@
-Test Case: Hana_T790_Add_Proposal_CreateProposalPage_Event_ExistingCustomer_AddNewProposal_NotesandInstruction_PossibilitiesofUpgrade_Edittem_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 45
-Time Taken: 14297 ms (14.30 s)
-
-

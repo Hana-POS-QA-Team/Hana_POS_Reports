@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T208_View_Proposal_Table_Sorting_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 48
-Time Taken: 15298 ms (15.30 s)
-
-

@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew#
+
+🕒 Time: August 06 2025 11:24:44 PM
+
+📄 Message: Test Step - 16 : Check number is not displayed

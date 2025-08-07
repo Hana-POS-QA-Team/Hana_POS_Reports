@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Delivery/DeliveryReview
+
+🕒 Time: August 07 2025 04:25:25 AM
+
+📄 Message: Test Step 17 - Checkbox is not checked

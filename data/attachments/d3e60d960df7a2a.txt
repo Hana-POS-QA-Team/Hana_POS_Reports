@@ -1,9 +1,0 @@
-Test Case: Validate_Hana_T1241_Webadmin_Categories_Edit_Categories_Functionality_Test
-----------------------------------------
-
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 46
-Time Taken: 20532 ms (20.53 s)
-
-
