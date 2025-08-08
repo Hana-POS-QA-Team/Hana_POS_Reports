@@ -1,0 +1,43 @@
+Test Case: Validate_Hana_T540_CustomerSection_Edit_Customer_CustomerDetails_UnPaidInvoice_PaidAmount_Search_Filter_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16348 ms (16.35 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 8804 ms (8.80 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 14007 ms (14.01 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4793 ms (4.79 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 1973 ms (1.97 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 13540 ms (13.54 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 6570 ms (6.57 s)
+

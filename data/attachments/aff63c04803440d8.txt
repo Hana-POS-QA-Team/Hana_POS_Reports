@@ -1,0 +1,7 @@
+Test Case: Hana_T748_Add_Proposal_CreateProposalPage_Wedding_NewCustomer_AddNewProposal_NotesandInstruction_PossibilitiesofUpgrade_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 16213 ms (16.21 s)
+

@@ -1,0 +1,73 @@
+Test Case: Validate_Hana_T1014_Advance_Dispatch_Trip_Section_Optimize_Configuration_Avoid_Ferries_On_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16669 ms (16.67 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 8321 ms (8.32 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 8721 ms (8.72 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 6495 ms (6.50 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4397 ms (4.40 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 1255 ms (1.26 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 15188 ms (15.19 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 2412 ms (2.41 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 5780 ms (5.78 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4995 ms (5.00 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 1191 ms (1.19 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 39441 ms (39.44 s)
+

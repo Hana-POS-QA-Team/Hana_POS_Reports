@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 07:38:13 PM
+
+📄 Message: Test Step - 25 - Order confirmation page is not displayed

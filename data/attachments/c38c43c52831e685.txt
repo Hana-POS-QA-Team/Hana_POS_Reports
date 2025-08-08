@@ -1,0 +1,43 @@
+Test Case: Validate_Hana_T672_WireOut_Payment_Section_MasterCard_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17929 ms (17.93 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 11910 ms (11.91 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 5759 ms (5.76 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 10218 ms (10.22 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 1194 ms (1.19 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 33171 ms (33.17 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 5022 ms (5.02 s)
+

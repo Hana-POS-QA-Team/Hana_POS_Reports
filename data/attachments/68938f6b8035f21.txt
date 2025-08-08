@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T1370_Configuration_Settings_Inventory_Management_Inventory_Settings_Enable_Inventory_Toggle_button_and_verify_in_PhoneOrderPage_Alias_Order_Entry_On_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 18452 ms (18.45 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 13108 ms (13.11 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1669 ms (1.67 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 5595 ms (5.60 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4722 ms (4.72 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1183 ms (1.18 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 33815 ms (33.82 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4534 ms (4.53 s)
+

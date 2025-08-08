@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T157_Pickup_RecipientSection_Confidential_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 17515 ms (17.52 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 11505 ms (11.51 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 1931 ms (1.93 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 6541 ms (6.54 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 5096 ms (5.10 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 1497 ms (1.50 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 32026 ms (32.03 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 5008 ms (5.01 s)
+

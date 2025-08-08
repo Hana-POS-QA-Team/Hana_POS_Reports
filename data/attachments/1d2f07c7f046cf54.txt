@@ -1,0 +1,55 @@
+Test Case: Validate_Hana_T399_ProductSection_Tax_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 18937 ms (18.94 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 8421 ms (8.42 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 2053 ms (2.05 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 5430 ms (5.43 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4214 ms (4.21 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 3890 ms (3.89 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 1186 ms (1.19 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 26381 ms (26.38 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4162 ms (4.16 s)
+

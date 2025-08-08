@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T361_OrderEntryPage_Delivery_RecipientSection_NewCustomerDetails_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 15605 ms (15.61 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 9635 ms (9.64 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 11245 ms (11.25 s)
+

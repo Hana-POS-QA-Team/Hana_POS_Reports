@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T16_Delete_Product_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17397 ms (17.40 s)
+

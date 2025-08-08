@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T581_RecipientSection_WithExistingRecipientDetails_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17927 ms (17.93 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 12728 ms (12.73 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 5472 ms (5.47 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1333 ms (1.33 s)
+

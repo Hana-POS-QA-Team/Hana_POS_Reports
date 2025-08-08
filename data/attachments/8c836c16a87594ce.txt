@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T447_Payment_Section_CreditCard_DontSave_Checked_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 15663 ms (15.66 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 13276 ms (13.28 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 421 ms (0.42 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 6125 ms (6.13 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 4020 ms (4.02 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 1378 ms (1.38 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17509 ms (17.51 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 4481 ms (4.48 s)
+

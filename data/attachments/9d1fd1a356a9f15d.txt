@@ -1,0 +1,7 @@
+Test Case: Validate_AddNew_CashRegister_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 16873 ms (16.87 s)
+

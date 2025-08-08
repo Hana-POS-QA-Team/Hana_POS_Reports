@@ -1,0 +1,43 @@
+Test Case: Validate_Hana_T1461_AllOrdersView_Cash_On_Deliveries_View_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 14843 ms (14.84 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 8771 ms (8.77 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 3666 ms (3.67 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 5764 ms (5.76 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 4983 ms (4.98 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 1268 ms (1.27 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 35594 ms (35.59 s)
+

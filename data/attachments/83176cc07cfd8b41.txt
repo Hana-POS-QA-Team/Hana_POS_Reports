@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Dashboard/Order
+
+🕒 Time: August 07 2025 08:53:43 PM
+
+📄 Message: Test Step - 38: Paid amount as cash is not displayed as provided paid amount in row6

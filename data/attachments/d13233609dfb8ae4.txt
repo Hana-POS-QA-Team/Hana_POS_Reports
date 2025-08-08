@@ -1,0 +1,55 @@
+Test Case: Validate_Hana_T_Delivery_Draft_Order_View_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 14748 ms (14.75 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 8124 ms (8.12 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1448 ms (1.45 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 6965 ms (6.97 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4099 ms (4.10 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 13339 ms (13.34 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1551 ms (1.55 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 43704 ms (43.70 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4691 ms (4.69 s)
+

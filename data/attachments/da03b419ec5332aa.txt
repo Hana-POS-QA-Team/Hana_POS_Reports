@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T33_Purchase_Product_With_Coupon_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 55
-Time Taken: 16532 ms (16.53 s)
-

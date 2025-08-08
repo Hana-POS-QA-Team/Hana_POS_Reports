@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
-
-🕒 Time: August 06 2025 09:50:59 PM
-
-📄 Message: Known Issue: - Test Step - 14 - Entered invalid date value on date picker input box field is not removed

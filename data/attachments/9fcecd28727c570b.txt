@@ -1,0 +1,10 @@
+🔍 Failed API Call Detected:
+URL: https://hanafloralpos3.com/Common/GetZipCodeDetails
+Status: 400
+Response Time: 815 ms
+Response Body: Bad Request
+🔍 Failed API Call Detected:
+URL: https://hanafloralpos3.com/Common/GetZipCodeDetails
+Status: 400
+Response Time: 914 ms
+Response Body: Bad Request

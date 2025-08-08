@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T1219_Webadmin_Product_Add_New_Products_Availability_Active_Enabled_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 15974 ms (15.97 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17383 ms (17.38 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 3606 ms (3.61 s)
+

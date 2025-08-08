@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T335_OrderEntryPage_Delivery_CustomerSection_Edit_Customer_CustomerDetails_OrderDetails_ExportToExcel_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 19882 ms (19.88 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 8426 ms (8.43 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1640 ms (1.64 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 5399 ms (5.40 s)
+

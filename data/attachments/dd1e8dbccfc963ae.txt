@@ -1,0 +1,31 @@
+Test Case: Validate_Hana_T195_OrderEntryPage_Pickup_ProductSection_CreateRecipe_ItemGallery_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17237 ms (17.24 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 8715 ms (8.72 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1189 ms (1.19 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 5661 ms (5.66 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4468 ms (4.47 s)
+

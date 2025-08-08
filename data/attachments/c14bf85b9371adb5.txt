@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T115_OrderEntryPage_Pickup_CustomerSection_Edit_Customer_CustomerDetails_UnPaidInvoice_Sorting_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 34935 ms (34.94 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 8785 ms (8.79 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 1906 ms (1.91 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 5732 ms (5.73 s)
+

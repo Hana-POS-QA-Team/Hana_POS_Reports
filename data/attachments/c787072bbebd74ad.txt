@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T1285_Configuration_Settings_Inventory_Management_Inventory_Settings_Enable_Inventory_Toggle_button_and_verify_in_CashandCarry_On_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 16625 ms (16.63 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 25250 ms (25.25 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 5603 ms (5.60 s)
+

@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T570_CustomerSection_Edit_Customer_CustomerDetails_OrderDetails_Pagination_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 18087 ms (18.09 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 12170 ms (12.17 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 7570 ms (7.57 s)
+

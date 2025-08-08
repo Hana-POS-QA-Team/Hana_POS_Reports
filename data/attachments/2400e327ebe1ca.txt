@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 06:59:54 PM
+
+📄 Message: Test case failed due to exception 🔴 Exception in SearchAndSelectReciAddress1: ❌ Failed to select Recipient Address 1 suggestion after 3 attempts for input: '1160 W 5th St, Washington, MO'

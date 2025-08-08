@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T_EGift_Card_FT
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 16112 ms (16.11 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 22538 ms (22.54 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 3577 ms (3.58 s)
+

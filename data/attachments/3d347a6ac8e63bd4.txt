@@ -1,0 +1,73 @@
+Test Case: Validate_Hana_T797_Quick_Dispatch_Saved_Trips_Delete_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16456 ms (16.46 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 15267 ms (15.27 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 6544 ms (6.54 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4018 ms (4.02 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 1450 ms (1.45 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 15561 ms (15.56 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 5865 ms (5.87 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 3866 ms (3.87 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 1216 ms (1.22 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 33621 ms (33.62 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 3927 ms (3.93 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4806 ms (4.81 s)
+

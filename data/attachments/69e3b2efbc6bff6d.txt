@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1660_HanaPOS_Proposal_Proposal_settings_Event_Verify_the_delivery_fee_tax_calculation_for_label_Exclude_Delivery_Fee_in_Tax_Calculation_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 17319 ms (17.32 s)
+

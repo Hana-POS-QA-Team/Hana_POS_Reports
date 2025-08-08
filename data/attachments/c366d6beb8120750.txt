@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T08_WalkingSetting_Delete_CashRegister_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 56
-Time Taken: 17488 ms (17.49 s)
-

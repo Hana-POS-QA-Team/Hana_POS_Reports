@@ -1,0 +1,61 @@
+Test Case: Validate_Hana_T1454_OrderPage_AllOrders_Verify_Status_is_ChangedTo_Not_Delivered_Delivery_Attempted_When_Order_is_Delivered_From_Hana_Viewers_App_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 15369 ms (15.37 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 9350 ms (9.35 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 847 ms (0.85 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 6009 ms (6.01 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4172 ms (4.17 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 1186 ms (1.19 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 35916 ms (35.92 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4983 ms (4.98 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 39026 ms (39.03 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 4709 ms (4.71 s)
+

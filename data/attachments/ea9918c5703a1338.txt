@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T1431_OrderPage_AllOrders_Verify_Status_for_Cash_and_Carry_Orders_Functionality_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 56
-Time Taken: 16217 ms (16.22 s)
-

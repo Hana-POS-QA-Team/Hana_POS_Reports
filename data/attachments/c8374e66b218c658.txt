@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T79_Add_Product_With_Existing_Customer_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 16580 ms (16.58 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 19020 ms (19.02 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 4030 ms (4.03 s)
+

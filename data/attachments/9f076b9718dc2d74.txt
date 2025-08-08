@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T1592_HanaPOS_Orders_Cancel_Order_Credit_For_Customer_Complaint_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 16926 ms (16.93 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 19350 ms (19.35 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 3854 ms (3.85 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 3544 ms (3.54 s)
+

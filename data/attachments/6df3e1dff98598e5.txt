@@ -1,0 +1,13 @@
+Test Case: Validate_Hana_T538_CustomerSection_Edit_Customer_CustomerDetails_UnPaidInvoice_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17888 ms (17.89 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 14143 ms (14.14 s)
+

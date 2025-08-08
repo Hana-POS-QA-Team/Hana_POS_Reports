@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1220_Webadmin_Product_Add_New_Products_Availability_Web_Enabled_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17485 ms (17.49 s)
+

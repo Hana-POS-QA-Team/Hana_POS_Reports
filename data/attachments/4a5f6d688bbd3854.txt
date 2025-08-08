@@ -1,0 +1,61 @@
+1754603908840 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1754603919036 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754603921388 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603923649 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603923733 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603940882 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754603940950 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603941744 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603950645 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754603950846 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603951296 SEVERE https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 0:0 Uncaught SyntaxError: Identifier 'AUTHCAPTURE' has already been declared
+
+1754603951382 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603961521 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754603962165 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603962986 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603973717 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754603973907 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603974305 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754603998390 SEVERE https://hanafloralpos3.com/Scripts/custom/ProposalCommon.js?v=0721095420 1624:16 Uncaught ReferenceError: setFocusOnNonSelectedCtrl is not defined
+
+1754604006461 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604006462 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604006462 SEVERE https://hanafloralpos3.com/Scripts/Static/Constant.js?v=0721095420 0:0 Uncaught SyntaxError: Identifier 'forbiddenChars' has already been declared
+
+1754604006473 SEVERE https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 0:0 Uncaught SyntaxError: Identifier 'AUTHCAPTURE' has already been declared
+
+1754604006571 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604094338 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604094339 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604094339 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604119485 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604120027 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1754604120028 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1754604120353 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-w

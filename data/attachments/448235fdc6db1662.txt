@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T47_Payments_CreditCard_Manually_Entering_CreditCard_Details_AddNewCard_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 17510 ms (17.51 s)
+

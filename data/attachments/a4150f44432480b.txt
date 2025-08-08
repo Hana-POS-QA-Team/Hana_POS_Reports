@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T564_WireOut_CustomerSection_Edit_Customer_CustomerDetails_OrderDetails_TotalSearchFilter_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 19880 ms (19.88 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 11914 ms (11.91 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 5447 ms (5.45 s)
+

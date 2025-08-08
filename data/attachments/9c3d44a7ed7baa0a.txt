@@ -1,0 +1,49 @@
+Test Case: Validate_Hana_T1432_OrderPage_AllOrders_Verify_Status_As_New_For_Phone_Orders_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16295 ms (16.30 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 9227 ms (9.23 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 2015 ms (2.02 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 6910 ms (6.91 s)
+
+
+Step: Phone Order Page → Search Item Code and Select item description from Autosuggestion Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 3989 ms (3.99 s)
+
+
+Step: Phone Order Page → Order Confirmation Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 1134 ms (1.13 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 45857 ms (45.86 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 5349 ms (5.35 s)
+

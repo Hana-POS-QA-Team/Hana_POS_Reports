@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1244_Webadmin_Categories_Sorting_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16353 ms (16.35 s)
+

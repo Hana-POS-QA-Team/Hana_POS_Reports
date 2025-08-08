@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T092_Pickup_CustomerSection_LastNameFieldLookup_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 19286 ms (19.29 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 1966 ms (1.97 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 7633 ms (7.63 s)
+

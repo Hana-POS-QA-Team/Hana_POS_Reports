@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T558_CustomerSection_Edit_Customer_CustomerDetails_PaymentDetails_CheckNo_SearchFilter_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 15132 ms (15.13 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 13323 ms (13.32 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 6017 ms (6.02 s)
+

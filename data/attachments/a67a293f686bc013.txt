@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T10_WalkinsSetting_CashRegistery_Merchant_Copy_without_Merchant_Copy_Notes_FT
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 53
-Time Taken: 16107 ms (16.11 s)
-

@@ -1,0 +1,22 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Dashboard/Order
+
+🕒 Time: August 07 2025 11:28:19 PM
+
+📄 Message: 
+
+Field Name: Quick Dispatch Option
+
+DOM - Element: [[ChromeDriver: chrome on windows (dcf889769461041b6a7943a95d6eee03)] -> xpath: //a[@class='li_Dispatch']]
+
+Exception Type: Unexpected Exception: Quick Dispatch Option is not visible.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+
+Error log Message: Quick Dispatch Option is not visible.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+

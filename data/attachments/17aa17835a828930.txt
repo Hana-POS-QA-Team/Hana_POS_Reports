@@ -1,0 +1,7 @@
+Test Case: Hana_T654_Add_Proposal_CreateProposalPage_Wedding_ExistingCustomer_AddNewProposal_DocumentsAndImages_DragAndDrop_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 17447 ms (17.45 s)
+

@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 08:11:38 PM
+
+📄 Message: Test Step - 12: Entered order date on order details is not displayed

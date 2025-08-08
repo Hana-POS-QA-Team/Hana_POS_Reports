@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205778&Shop_ID=2061&StatusID=1&ProposalType=Wedding&IsNew=1
+
+🕒 Time: August 08 2025 02:04:40 AM
+
+📄 Message: Test case failed due to exception Element not found: Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='divDocUploadHolder_1'] div:nth-child(2) a:nth-child(1)'

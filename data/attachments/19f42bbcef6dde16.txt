@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
-
-🕒 Time: August 06 2025 07:36:04 PM
-
-📄 Message: Test Step - 12 - Filtered Pay Amount is not displayed on the payment details tab at customer details popup

@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T11_WalkinsSetting_CashRegistery_Customer_Copy_with_Customer_Copy_Notes_FT
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17592 ms (17.59 s)
+

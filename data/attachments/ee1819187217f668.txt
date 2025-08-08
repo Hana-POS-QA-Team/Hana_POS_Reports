@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T284_Add_Proposal_CreateProposalPage_Event_ExistingCustomer_Functionality_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 55
-Time Taken: 17133 ms (17.13 s)
-

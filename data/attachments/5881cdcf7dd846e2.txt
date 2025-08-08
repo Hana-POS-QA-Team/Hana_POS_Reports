@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
-
-🕒 Time: August 06 2025 06:02:21 PM
-
-📄 Message: Test Step - 11 - Status search box entered data is not displayed in order details tab at customer details popup

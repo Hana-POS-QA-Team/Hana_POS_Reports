@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205689&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1
-
-🕒 Time: August 07 2025 03:41:11 AM
-
-📄 Message: Test Step - 9: Selected category is displayed on event - manage proposal page

@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 09:43:26 PM
+
+📄 Message: Test Step - 10 - Confirmation popup is not displayed on phone order page

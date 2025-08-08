@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Proposal/Index
+
+🕒 Time: August 08 2025 02:02:04 AM
+
+📄 Message: Test Step - 7: City of customer is not displayed in create proposal popup

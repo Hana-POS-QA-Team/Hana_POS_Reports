@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T535_CustomerSection_Edit_Customer_CustomerDetails_CreditCard_AddNewCard_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16593 ms (16.59 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16912 ms (16.91 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 5882 ms (5.88 s)
+

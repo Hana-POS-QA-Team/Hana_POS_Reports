@@ -1,7 +1,0 @@
-Test Case: Hana_T757_Add_Proposal_CreateProposalPage_Event_NewCustomer_AddNewProposal_NotesandInstruction_PossibilitiesofUpgrade_Functionality_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 54
-Time Taken: 20084 ms (20.08 s)
-

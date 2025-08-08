@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1245_Webadmin_Categories_Search_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16895 ms (16.90 s)
+

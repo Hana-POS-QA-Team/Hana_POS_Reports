@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1661_HanaPOS_Proposal_settings_Wedding_Verify_the_Delivery_fee_in_dollar_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 15831 ms (15.83 s)
+

@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T78_Reconcile_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 16967 ms (16.97 s)
+

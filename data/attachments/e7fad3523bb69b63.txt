@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T87_WalkinsSetting_CashRegistery_Merchant_Copy_UnChecked_FT
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16321 ms (16.32 s)
+

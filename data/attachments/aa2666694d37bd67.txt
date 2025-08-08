@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T480_OrderDetails_Section_ShortCode_Delete_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 17348 ms (17.35 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 9867 ms (9.87 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 830 ms (0.83 s)
+

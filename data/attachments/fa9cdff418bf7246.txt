@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew#
+
+🕒 Time: August 07 2025 11:07:23 PM
+
+📄 Message: Test Step - 16 : Bank name is not displayed

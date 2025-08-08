@@ -1,0 +1,8 @@
+🔍 Failed API Call Detected:
+URL: https://hanafloralpos3.com/Common/GetZipCodeDetails
+Status: 400
+Response Time: 807 ms
+Response Body: [Unable to fetch: {"id":10192,"error":{"code":-32000,"message":"No data found for resource with given identifier"},"sessionId":"191229B3B2CED1A07F89296669FCC00B"}
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown]

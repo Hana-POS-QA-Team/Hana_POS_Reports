@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T_Webadmin_Update_AddOn_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 17303 ms (17.30 s)
+

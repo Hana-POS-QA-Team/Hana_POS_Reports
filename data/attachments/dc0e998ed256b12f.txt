@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/admin/ItemManagement?IsHideMainHeader=true
-
-🕒 Time: August 07 2025 04:56:28 AM
-
-📄 Message: Test Step - 23 : Current available stock is reduced if disabled the inventory toggle button on product management page

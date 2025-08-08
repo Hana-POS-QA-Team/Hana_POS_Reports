@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1288_Configuration_Settings_Order_Entry_Coupon_Details_Display_This_Coupon_On_The_Website_Toogle_Button_Enabled_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 46
+Time Taken: 15475 ms (15.48 s)
+

@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T466_RecipientSection_ZoneBasedDeliveryFee_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17577 ms (17.58 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 14564 ms (14.56 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 971 ms (0.97 s)
+

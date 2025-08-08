@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T1593_HanaPOS_Orders_Cancel_Order_Credit_Reverse_Over_Charges_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16763 ms (16.76 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 18905 ms (18.91 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 4655 ms (4.66 s)
+
+
+Step: Recent Orders Page → Global Order Search
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 3603 ms (3.60 s)
+

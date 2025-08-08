@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 08:09:53 PM
+
+📄 Message: Known Issue:- Test Step - 12 - Filtered status with 3 characters is not displayed on the order details tab at customer details popup

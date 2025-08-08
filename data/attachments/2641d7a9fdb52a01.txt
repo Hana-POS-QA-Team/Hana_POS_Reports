@@ -1,0 +1,13 @@
+Test Case: Validate_Hana_T1509_AllOrdersView_Walkin_Sale_View_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 16054 ms (16.05 s)
+
+
+Step: Phone Order Page → All Orders / Recent Orders Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 19415 ms (19.42 s)
+

@@ -1,0 +1,13 @@
+Test Case: Validate_Hana_T583_RecipientSection_NewCustomerDetails_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 16502 ms (16.50 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 2004 ms (2.00 s)
+

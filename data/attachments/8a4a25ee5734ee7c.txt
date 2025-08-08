@@ -1,0 +1,32 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 10:21:47 PM
+
+📄 Message: Test case failed due to exception 
+
+Field Name: Choose Wireout florist Search Icon field on phone order page
+
+DOM - Element: [[ChromeDriver: chrome on windows (8c097018937c224f3438a8c12a11c051)] -> xpath: //input[@id='wireoutFlorist']/following::span[1]//a//span]
+
+Exception Type: generic exception
+
+Error log Message: 
+
+Field Name: Search Icon choose florist field on wire out as delivery type
+
+DOM - Element: [[ChromeDriver: chrome on windows (8c097018937c224f3438a8c12a11c051)] -> xpath: //input[@id='wireoutFlorist']/following::span[1]//a//span]
+
+Exception Type: ElementNotInteractableException on attempt 1
+
+Error log Message: element click intercepted: Element <span class="glyphicon glyphicon-search" style="border: 3px solid red;"></span> is not clickable at point (1314, 191). Other element would receive the click: <div class="toast toast-success" style="opacity: 0.554;">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c097018937c224f3438a8c12a11c051, clickElement {id=f.D85F4E33F7979B74CB02531BBA604741.d.DE68D01251FF32BB32E38D407F1DE5C8.e.2035}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Balaji\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49686}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49686/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (8c097018937c224f3438a8c12a11c051)] -> xpath: //input[@id='wireoutFlorist']/following::span[1]//a//span]
+Session ID: 8c097018937c224f3438a8c12a11c051
+
+
+

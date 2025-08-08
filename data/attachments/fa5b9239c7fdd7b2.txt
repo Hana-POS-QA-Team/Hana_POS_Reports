@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew
-
-🕒 Time: August 07 2025 03:48:33 AM
-
-📄 Message: Test Step - 9 - Entered alpha & spl characters are accepted in qty field

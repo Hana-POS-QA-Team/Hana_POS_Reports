@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1231_Customer_Delete_CustomerDetails_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16049 ms (16.05 s)
+

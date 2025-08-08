@@ -1,0 +1,89 @@
+1754604151337 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1754604162434 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604164505 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604167201 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604167230 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604187487 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604188634 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604189852 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604196489 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604196710 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604197221 SEVERE https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 0:0 Uncaught SyntaxError: Identifier 'AUTHCAPTURE' has already been declared
+
+1754604197304 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604201951 SEVERE https://hanafloralpos3.com/ShopDetailsPage/index/40 - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=47325939659884786' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604201951 SEVERE https://api.magicbell.com//ws/auth?rnd=47325939659884786 - Failed to load resource: net::ERR_FAILED
+
+1754604208182 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604208854 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604209824 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604214591 SEVERE https://hanafloralpos3.com/Proposal/Index - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=1995528383865357' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604214591 SEVERE https://api.magicbell.com//ws/auth?rnd=1995528383865357 - Failed to load resource: net::ERR_FAILED
+
+1754604218507 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604218575 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604219009 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604222477 SEVERE https://hanafloralpos3.com/Proposal/ProposalSetting - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=23732568419332756' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604222477 SEVERE https://api.magicbell.com//ws/auth?rnd=23732568419332756 - Failed to load resource: net::ERR_FAILED
+
+1754604235193 SEVERE https://hanafloralpos3.com/Proposal/ProposalSetting - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=5201884071930325' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604235194 SEVERE https://api.magicbell.com//ws/auth?rnd=5201884071930325 - Failed to load resource: net::ERR_FAILED
+
+1754604241697 SEVERE https://hanafloralpos3.com/Scripts/custom/ProposalCommon.js?v=0721095420 1624:16 Uncaught ReferenceError: setFocusOnNonSelectedCtrl is not defined
+
+1754604249857 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604249857 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604249857 SEVERE https://hanafloralpos3.com/Scripts/Static/Constant.js?v=0721095420 0:0 Uncaught SyntaxError: Identifier 'forbiddenChars' has already been declared
+
+1754604249857 SEVERE https://hanafloralpos3.com/Scripts/custom/_LayoutHana/_CommonMethods.js?v=0721095422 0:0 Uncaught SyntaxError: Identifier 'AUTHCAPTURE' has already been declared
+
+1754604249857 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604252298 SEVERE https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205820&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1 - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=2623414273703595' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604252298 SEVERE https://api.magicbell.com//ws/auth?rnd=2623414273703595 - Failed to load resource: net::ERR_FAILED
+
+1754604266633 SEVERE https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205820&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1 - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=16963711287081906' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604266634 SEVERE https://api.magicbell.com//ws/auth?rnd=16963711287081906 - Failed to load resource: net::ERR_FAILED
+
+1754604281667 SEVERE https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205820&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1 - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=48403720662168515' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604281667 SEVERE https://api.magicbell.com//ws/auth?rnd=48403720662168515 - Failed to load resource: net::ERR_FAILED
+
+1754604296704 SEVERE https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205820&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1 - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=0692060992922161' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604296704 SEVERE https://api.magicbell.com//ws/auth?rnd=0692060992922161 - Failed to load resource: net::ERR_FAILED
+
+1754604313308 SEVERE https://hanafloralpos3.com/Proposal/AddEditProposal?ID=205820&Shop_ID=2061&StatusID=1&ProposalType=Event&IsNew=1 - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=8901301008619945' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754604313308 SEVERE https://api.magicbell.com//ws/auth?rnd=8901301008619945 - Failed to load resource: net::ERR_FAILED
+
+1754604349225 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754604349226 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754604349226 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQ

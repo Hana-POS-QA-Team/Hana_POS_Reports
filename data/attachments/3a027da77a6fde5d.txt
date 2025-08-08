@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew
+
+🕒 Time: August 08 2025 02:44:45 AM
+
+📄 Message: Test Step - 10 - Entered alpha characters are accepted in recipent phone field

@@ -1,7 +1,0 @@
-Test Case: Hana_T740_Add_Proposal_CreateProposalPage_Wedding_NewCustomer_AddNewProposal_InspirationBoard_AddFiles_Functionality_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 55
-Time Taken: 16909 ms (16.91 s)
-

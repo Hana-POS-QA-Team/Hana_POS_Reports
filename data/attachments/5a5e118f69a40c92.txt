@@ -1,0 +1,49 @@
+1754590699092 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1754590708385 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754590710440 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590712209 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590712387 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590725854 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754590728446 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590730674 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590733003 SEVERE https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:42981 Uncaught TypeError: Cannot read properties of null (reading 'options')
+
+1754590817115 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754590819327 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590821176 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590850586 SEVERE https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=50&Change=0&TranType=Sales&ShopID=2061&ClerkID=10&GivenAmt=50&Tendered=0&MOP=CA&DisplayItem=N&CCNum=&TransactionID=0 - Failed to launch 'webclientprint:https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=50&Change=0&TranType=Sales&ShopID=2061&ClerkID=10&GivenAmt=50&Tendered=0&MOP=CA&DisplayItem=N&CCNum=&TransactionID=0&clientPrint&useDefaultPrinter=false&OpenDraw=false' because the scheme does not have a registered handler.
+
+1754590863722 SEVERE https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=50&Change=0&TranType=Sales&ShopID=2061&ClerkID=1496&GivenAmt=50&Tendered=0&MOP=CK&DisplayItem=N&CCNum=&TransactionID=0 - Failed to launch 'webclientprint:https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=50&Change=0&TranType=Sales&ShopID=2061&ClerkID=1496&GivenAmt=50&Tendered=0&MOP=CK&DisplayItem=N&CCNum=&TransactionID=0&clientPrint&useDefaultPrinter=false&OpenDraw=false' because the scheme does not have a registered handler.
+
+1754590872080 SEVERE https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=50&Change=0&TranType=Sales&ShopID=2061&ClerkID=1496&GivenAmt=50&Tendered=0&MOP=POH&DisplayItem=N&CCNum=&TransactionID=0 - Failed to launch 'webclientprint:https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=50&Change=0&TranType=Sales&ShopID=2061&ClerkID=1496&GivenAmt=50&Tendered=0&MOP=POH&DisplayItem=N&CCNum=&TransactionID=0&clientPrint&useDefaultPrinter=false&OpenDraw=false' because the scheme does not have a registered handler.
+
+1754590888166 SEVERE https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=10&Change=0&TranType=Sales&ShopID=2061&ClerkID=1496&GivenAmt=50&Tendered=0&MOP=GC&DisplayItem=N&CCNum=&TransactionID=0 - Failed to launch 'webclientprint:https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=10&Change=0&TranType=Sales&ShopID=2061&ClerkID=1496&GivenAmt=50&Tendered=0&MOP=GC&DisplayItem=N&CCNum=&TransactionID=0&clientPrint&useDefaultPrinter=false&OpenDraw=false' because the scheme does not have a registered handler.
+
+1754590896071 SEVERE https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=109.1&Change=0&TranType=Sales&ShopID=2061&ClerkID=2&GivenAmt=109.1&Tendered=0&MOP=CA&DisplayItem=N&CCNum=&TransactionID=0 - Failed to launch 'webclientprint:https://hanafloralpos3.com/PhoneOrderReceiptPrint.aspx?PrintType=SplitPayment&Invocie=2061015211&Payment=109.1&Change=0&TranType=Sales&ShopID=2061&ClerkID=2&GivenAmt=109.1&Tendered=0&MOP=CA&DisplayItem=N&CCNum=&TransactionID=0&clientPrint&useDefaultPrinter=false&OpenDraw=false' because the scheme does not have a registered handler.
+
+1754590906991 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754590909893 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590912738 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590917008 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754590918939 SEVERE https://hanafloralpos3.com/Scripts/app/tableHeadFixer.js 285:3 Uncaught ReferenceError: jQuery is not defined
+
+1754590918940 SEVERE https://hanafloralpos3.com/Scripts/app/Steps/jquery.steps.min.js?ver=08132017 526:2 Uncaught ReferenceError: jQuery is not defined
+
+1754590919436 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754590922257 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected 

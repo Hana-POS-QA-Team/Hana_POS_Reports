@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1659_HanaPOS_Proposal_settings_Wedding_Verify_the_Setup_fee_in_percentage_Functionality
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 15946 ms (15.95 s)
+

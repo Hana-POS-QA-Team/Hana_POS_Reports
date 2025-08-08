@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
-
-🕒 Time: August 06 2025 05:54:50 PM
-
-📄 Message: Test Step - 10 - Entered date value on date picker input box field is not displayed

@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1243_Webadmin_Categories_Delete_Categories_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 17354 ms (17.35 s)
+

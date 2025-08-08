@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T689_Add_Proposal_CreateProposalPage_Event_NeworExisting_Customer_AddProposal_GeneralInfo_CustomerDetails_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 15537 ms (15.54 s)
+

@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
-
-🕒 Time: August 07 2025 03:37:19 AM
-
-📄 Message: Test Step - 9 - Payment type option is not displayed

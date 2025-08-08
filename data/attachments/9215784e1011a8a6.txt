@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T1291_Configuration_Settings_Order_Entry_Coupon_Details_Display_This_Coupon_On_The_Website_Toogle_Button_Disabled_Functionality_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 54
-Time Taken: 17896 ms (17.90 s)
-

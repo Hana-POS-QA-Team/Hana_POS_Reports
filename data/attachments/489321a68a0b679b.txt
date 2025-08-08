@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T70_Sales_History_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 54
-Time Taken: 17202 ms (17.20 s)
-

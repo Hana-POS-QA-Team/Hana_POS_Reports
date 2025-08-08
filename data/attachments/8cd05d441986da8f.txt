@@ -1,7 +1,0 @@
-Test Case: Validate_Hana_T282_Add_Proposal_CreateProposalPage_Event_SearchFilter_Functionality_Test
-----------------------------------------
-Step: Login page → Dashboard page   
-Status: ✅ SUCCESS
-Thread: 53
-Time Taken: 17143 ms (17.14 s)
-

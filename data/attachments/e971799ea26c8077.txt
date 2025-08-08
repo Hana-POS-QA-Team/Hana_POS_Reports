@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
+
+🕒 Time: August 07 2025 09:58:23 PM
+
+📄 Message: Test Step - 9: Entered status as del is not displayed

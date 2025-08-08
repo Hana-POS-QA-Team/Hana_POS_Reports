@@ -1,0 +1,43 @@
+1754599244629 SEVERE https://hanafloralpos3.com/Common/GetZipCodeDetails - Failed to load resource: the server responded with a status of 400 (SessionTimeout)
+
+1754599252978 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754599255654 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754599257385 SEVERE https://hanafloralpos3.com/plugins/chartistStyles?v=mpSBcJ90izFARn5oMx1cI7qVz1y5Fw2mbHAaVIlilxk1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754599257439 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754599259612 SEVERE https://hanafloralpos3.com/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81 0:15342 Uncaught TypeError: Cannot read properties of undefined (reading 'length')
+
+1754599263213 SEVERE https://hanafloralpos3.com/Dashboard/Hana - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=964444354923234' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754599263213 SEVERE https://api.magicbell.com//ws/auth?rnd=964444354923234 - Failed to load resource: net::ERR_FAILED
+
+1754599269963 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754599272084 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754599274336 SEVERE https://hanafloralpos3.com/bundles/FeedbackJS?v=ObftMIViUhuLQwIzvrxeZYbPbV_h3X3TbgxIAOBpl4o1 1277:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754599282067 SEVERE https://hanafloralpos3.com/Proposal/Index - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=37204672149093376' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754599282067 SEVERE https://api.magicbell.com//ws/auth?rnd=37204672149093376 - Failed to load resource: net::ERR_FAILED
+
+1754599297103 SEVERE https://hanafloralpos3.com/Proposal/Index - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=05462942542357463' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754599297104 SEVERE https://api.magicbell.com//ws/auth?rnd=05462942542357463 - Failed to load resource: net::ERR_FAILED
+
+1754599298766 SEVERE https://hanafloralpos3.com/Scripts/custom/ProposalCommon.js?v=0721095420 1624:16 Uncaught ReferenceError: setFocusOnNonSelectedCtrl is not defined
+
+1754599312698 SEVERE https://hanafloralpos3.com/Proposal/Index - Access to XMLHttpRequest at 'https://api.magicbell.com//ws/auth?rnd=666188143585546' from origin 'https://hanafloralpos3.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+1754599312698 SEVERE https://api.magicbell.com//ws/auth?rnd=666188143585546 - Failed to load resource: net::ERR_FAILED
+
+1754599316324 SEVERE https://hanafloralpos3.com/Scripts/custom/ProposalCommon.js?v=0721095420 1624:16 Uncaught ReferenceError: setFocusOnNonSelectedCtrl is not defined
+
+1754599328942 SEVERE https://polyfill.io/v3/polyfill.min.js?features=es5,es6,es7&flags=gated - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+
+1754599329759 SEVERE https://hanafloralpos3.com/plugins/dataPickerStyles?v=KD7z8vM-wT6aCO3ZTkopHgsahhKyro72vFB6Z3kWbEg1 0:0 Uncaught SyntaxError: Unexpected token '.'
+
+1754599331129 SEVERE https://hanafloralpos3.com/Scripts/Static/Constant.js?v=0721095420 0:0 Un

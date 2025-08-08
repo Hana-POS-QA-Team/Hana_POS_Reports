@@ -1,0 +1,7 @@
+Test Case: Validate_Hana_T1247_Webadmin_Categories_SortBy_Category_Name_Cancel_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 16832 ms (16.83 s)
+

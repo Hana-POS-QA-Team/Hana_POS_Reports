@@ -1,0 +1,14 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/order/ordersnew
+
+🕒 Time: August 07 2025 11:17:30 PM
+
+📄 Message: 
+
+Field Name: Order Confirmation Toast Message
+
+DOM - Element: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'
+
+Exception Type: UnexpectedException
+
+Error log Message: Element not found: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='toast-message']'
+

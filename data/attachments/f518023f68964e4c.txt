@@ -1,0 +1,25 @@
+Test Case: Validate_Hana_T123_Pickup_CustomerSection_Edit_Customer_CustomerDetails_PaymentDetails_MOPSearchFilter_FT_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 17187 ms (17.19 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 2211 ms (2.21 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 7846 ms (7.85 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 47
+Time Taken: 5926 ms (5.93 s)
+

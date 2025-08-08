@@ -1,0 +1,13 @@
+Test Case: Validate_Hana_T261_OrderEntryPage_ViewDraftPopup_Delete_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17406 ms (17.41 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 13776 ms (13.78 s)
+

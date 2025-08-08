@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T547_WireOut_CustomerSection_Edit_Customer_CustomerDetails_UnPaidInvoice_OrderDate_Search_Filter_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 15999 ms (16.00 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16043 ms (16.04 s)
+
+
+Step: Phone Order Page → Search and Select Customer Name Autosuggest Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 5760 ms (5.76 s)
+

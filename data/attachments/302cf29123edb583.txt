@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T160_OrderEntry_Pickup_OrderDetailsSection_SendRemainderField_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 17635 ms (17.64 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 9101 ms (9.10 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 45
+Time Taken: 11419 ms (11.42 s)
+

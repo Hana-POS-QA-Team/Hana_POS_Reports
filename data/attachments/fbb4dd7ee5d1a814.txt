@@ -1,0 +1,16 @@
+Request URL: https://hanafloralpos3.com/Global/SelectCustomerByCustomerId
+Status Code: 200
+Response Time: 0 ms
+Response Size: 1678 bytes
+Response Body:
+{"IsSuccess":true,"CustomerData":"[{\"ID\":15875136,\"Cust_FirstName\":\"Yasmin\",\"cust_LastName\":\"Russel\",\"Cust_phone\":\"9192939495\",\"cust_address1\":\"Test Automation Address, India\",\"cust_address2\":\"QA Test Automation, Cbe, Tn, India\",\"cust_city\":\"Coimbatore\",\"cust_state\":\"Tamilnadu\",\"cust_country_abbrev\":null,\"cust_country\":\"India\",\"cust_altPhone\":\"9192939896\",\"cust_zip\":\"641004\",\"cust_email\":\"hanaposqateam@gmail.com\",\"STORE_CREDIT\":\"0\",\"CUST_PASSWORD\":\"15875136\",\"FORCE_LOGIN\":\"Y\",\"CUST_PHONE_EXTN\":\"\",\"CUST_ALTPHONE_EXTN\":\"\",\"CreditApp\":\"No \",\"Shop_id\":1229,\"CompanyName\":\"Yasmin Russel Pvt Ltd\",\"CreateDateTime\":\"2025-08-07T13:39:40.063\",\"Cust_TaxType\":null,\"Cust_Specialints\":null,\"Cust_DicsPer\":null,\"Cust_DiscAmt\":null,\"Cust_MOP\":null,\"Cust_DELIVERYCHG\":null,\"Cust_Payment_terms\":null,\"Cust_PONumber\":null,\"Cust_TaxId\":null,\"Cust_CardMsg\":null,\"DefaultFlg\":\"No \",\"sourceCode\":null,\"Dont_Call\":null,\"isEmailStmnt\":false,\"isElectronicStmnt\":false,\"CustomStmntText\":null,\"legacy_id\":null,\"Enableloyalty\":false,\"LoyaltyAmount\":0.00,\"IsTested\":null,\"AvgPurchase\":null,\"TotalPurchase\":null,\"YTDPurchase\":null,\"MaxPurchase\":null,\"MinPurchase\":null,\"LastPurchaseDate\":null,\"LastPurchaseAmt\":null,\"migrationID\":null,\"CurrentBalance\":null,\"Cust_Notes\":null,\"CorpEntityID\":471,\"CustomerType\":2824,\"CorpLocationFlg\":\"N\",\"IsLateFee\":false,\"SearchCustomer\":\"Yasmin Russel 9192939495 9192939896 Yasmin Russel Pvt Ltd \",\"TransactionalSMS\":false,\"MarketingSMS\":false,\"AllowFeedbackemail\":true,\"IsCustomerUpdated\":false,\"SearchCust_phone\":\"9192939495\",\"Searchcust_altPhone\":\"9192939896\",\"Cust_name\":\"Yasmin Russel\",\"OriginalShopId\":null,\"IsHanaF2FActive\":null,\"Billing_Cust_FirstName\":\"Yasmin\",\"Billing_cust_LastName\":\"Russel\",\"Billing_Cust_phone\":\"9192939495\",\"Billing_cust_altPhone\":\"9192939896\",\"Billing_CUST_PHONE_EXTN\":\"\",\"Billing_CUST_ALTPHONE_EXTN\":\"\",\"Billing_cust_address1\":\"Test Automation Address, India\",\"Billing_cust_address2\":\"QA Test Automation, Cbe, Tn, India\",\"Billing_cust_zip\":\"641004\",\"Billing_cust_city\":\"Coimbatore\",\"Billing_cust_state\":\"Tamilnadu\",\"Billing_cust_country\":\"India\",\"Billing_CompanyName\":\"Yasmin Russel Pvt Ltd\",\"IsWebBlocked\":false,\"migrationID_Job\":\"\",\"shop_name\":\"bestflorist\"}]","Message":"Customer Info found"}
+
+----------------------------
+Request URL: https://hanafloralpos3.com/Handlers/KeepLive.ashx
+Status Code: 200
+Response Time: 0 ms
+Response Size: 480 bytes
+Response Body:
+OK
+
+----------------------------

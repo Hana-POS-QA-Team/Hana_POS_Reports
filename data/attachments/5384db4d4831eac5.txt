@@ -1,0 +1,19 @@
+Test Case: Validate_Hana_T296_OrderEntryPage_Delivery_CustomerSection_FirstNameField_Lookup_Functionality_Test
+----------------------------------------
+Step: Login page → Dashboard page   
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 16800 ms (16.80 s)
+
+
+Step: Hana Dashboard Page → Phone Order Page
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 9947 ms (9.95 s)
+
+
+Step: Phone Order Page → Shop Name Dropdown field
+Status: ✅ SUCCESS
+Thread: 44
+Time Taken: 2234 ms (2.23 s)
+

@@ -1,0 +1,22 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com/Dashboard/Order
+
+🕒 Time: August 08 2025 12:28:49 AM
+
+📄 Message: 
+
+Field Name: Advance Dispatch Option
+
+DOM - Element: [[ChromeDriver: chrome on windows (32074efaee258f0a4ea443dbd8251184)] -> xpath: //a[@class='li_AdvanceDispatch']]
+
+Exception Type: Unexpected Exception: Advance Dispatch Option is not visible.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+
+Error log Message: Advance Dispatch Option is not visible.
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: driver.version: unknown
+

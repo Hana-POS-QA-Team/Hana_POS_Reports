@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/AdvancedDispatch/AdvanceDispatch
-
-🕒 Time: August 07 2025 01:37:57 AM
-
-📄 Message: Test Step - 8 - Updated & verified address is not displaying in the pending Deliveries section for the respective invoice

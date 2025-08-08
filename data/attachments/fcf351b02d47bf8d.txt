@@ -1,6 +1,0 @@
-❌ Assertion failed at URL: https://hanafloralpos3.com/order/index
-
-🕒 Time: August 07 2025 03:50:13 AM
-
-📄 Message: Test Step - 39 - After changing the delivery type - 
-Selected Payment type is not displayed on phone order page payment section

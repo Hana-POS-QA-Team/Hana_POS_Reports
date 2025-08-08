@@ -1,0 +1,5 @@
+❌ Assertion failed at URL: https://hanafloralpos3.com//OrderConfirm/Index
+
+🕒 Time: August 07 2025 08:16:32 PM
+
+📄 Message: Test Step - 15 - Dashboard order page is not displayed

@@ -1,5 +1,0 @@
-❌ Assertion failed at URL: https://bestfloristhana.hanawebsites.com/flower/morning-glory-salmon/4160689
-
-🕒 Time: August 07 2025 03:20:21 AM
-
-📄 Message: Test Step - 9: Validation message is not matching with expected validation message
